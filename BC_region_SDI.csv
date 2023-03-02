@@ -1,0 +1,1081 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Deaths,Global,Both,All ages,Breast cancer,Number,1990,380905.198,396713.6901,364814.6218
+Deaths,Global,Both,All ages,Breast cancer,Rate,1990,7.11992603,7.415420275,6.819159033
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,1990,9.797010559,10.20907967,9.303872485
+Deaths,Global,Both,All ages,Breast cancer,Number,1991,388876.1798,405457.798,372392.9799
+Deaths,Global,Both,All ages,Breast cancer,Rate,1991,7.157999928,7.463215903,6.85459553
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,1991,9.771789653,10.20903736,9.283339168
+Deaths,High SDI,Both,All ages,Breast cancer,Number,1990,137444.5491,140804.4287,130744.0391
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,1990,16.72049374,17.12923199,15.90535893
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,1990,13.54757613,13.87605177,12.89818414
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,1991,107273.2417,111174.0595,103248.7337
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,1991,9.229363688,9.564974561,8.883111007
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1991,10.03975581,10.40944909,9.598775174
+Deaths,Global,Both,All ages,Breast cancer,Number,1992,398279.0813,414149.634,381008.1629
+Deaths,Global,Both,All ages,Breast cancer,Rate,1992,7.222393468,7.510190095,6.909202607
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,1992,9.776581836,10.16258565,9.265256168
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,1990,46519.99154,52302.32515,40557.43158
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,1990,4.118096228,4.629966619,3.590271634
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1990,7.232445495,8.139543624,6.235811248
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,1990,19514.30267,22897.86323,16313.30506
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,1990,3.694908081,4.335563577,3.088819709
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,1990,7.787141555,9.301614175,6.471808816
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,1991,47719.38383,53727.63444,42070.12391
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,1991,4.144818934,4.66668466,3.654134486
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1991,7.238493279,8.167765503,6.283897037
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,1990,104535.2971,108322.2626,100730.4487
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,1990,9.086616659,9.415794502,8.755884358
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1990,9.982587484,10.34958862,9.576511465
+Deaths,Global,Both,All ages,Breast cancer,Number,1993,411583.6979,427275.1778,395788.4356
+Deaths,Global,Both,All ages,Breast cancer,Rate,1993,7.356322751,7.636779901,7.074010678
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,1993,9.876680047,10.25436445,9.408554266
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,1990,72639.6191,78672.36858,67619.4489
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,1990,4.231214056,4.582618079,3.938792165
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1990,6.666295066,7.166474846,6.199503865
+Deaths,High SDI,Both,All ages,Breast cancer,Number,1991,138592.8051,142005.5815,131649.2653
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,1991,16.72465485,17.13649086,15.88674479
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,1991,13.41344378,13.73656904,12.75667102
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,1991,20047.04728,23329.27038,16796.08709
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,1991,3.698700763,4.304274288,3.098895277
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,1991,7.81889906,9.158442444,6.522032494
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,1991,74986.63552,80610.00306,69857.53204
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,1991,4.295868998,4.618023074,4.00203055
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1991,6.692710753,7.197262458,6.224594731
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,1993,51319.61907,56865.80816,46140.40621
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,1993,4.296412491,4.760732307,3.862815453
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1993,7.399807198,8.252132328,6.57861064
+Deaths,Global,Both,All ages,Breast cancer,Number,1994,421888.712,436732.0692,404864.0148
+Deaths,Global,Both,All ages,Breast cancer,Rate,1994,7.433952974,7.695502565,7.133966758
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,1994,9.885708692,10.25085909,9.388790018
+Deaths,Global,Both,All ages,Breast cancer,Number,1995,429654.0576,445586.5685,412334.2354
+Deaths,Global,Both,All ages,Breast cancer,Rate,1995,7.465336968,7.742167967,7.164401117
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,1995,9.842515367,10.20798672,9.368074768
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,1992,20668.96765,24185.82775,17453.17282
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,1992,3.714058471,4.346011855,3.136204259
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,1992,7.883250463,9.281004966,6.635859901
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,1992,110364.7475,114080.5929,106453.8958
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,1992,9.403329578,9.719928129,9.070116044
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1992,10.12706644,10.48076724,9.708949242
+Deaths,High SDI,Both,All ages,Breast cancer,Number,1992,139360.4188,142904.3302,132224.6203
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,1992,16.68650695,17.11084195,15.83209253
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,1992,13.22813086,13.55372665,12.57084737
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,1993,116206.7098,119812.8219,111936.5768
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,1993,9.810925417,10.11537683,9.450413044
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1993,10.46125461,10.8020863,10.0204556
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,1993,21285.01768,24684.03146,18057.17567
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,1993,3.727435366,4.32267115,3.162175208
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,1993,7.950170331,9.313645928,6.668919851
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,1992,49569.72106,55383.9457,44192.05923
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,1992,4.226289847,4.722007758,3.767793065
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1992,7.326067192,8.224867304,6.460485853
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,1995,85913.17284,91032.23305,81030.51845
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,1995,4.63443055,4.910568984,4.3710446
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1995,6.842835217,7.244259442,6.448592224
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,1993,80708.39978,86403.11063,75931.35898
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,1993,4.482277858,4.798543283,4.216976795
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1993,6.819018575,7.272858511,6.39888056
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,1995,121725.916,125338.1367,117129.7463
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,1995,10.10102673,10.40077505,9.719628639
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1995,10.55958671,10.88853248,10.12634122
+Deaths,High SDI,Both,All ages,Breast cancer,Number,1993,141791.968,145432.3672,134405.6518
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,1993,16.85270118,17.28538126,15.97479968
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,1993,13.2024877,13.53259841,12.54126995
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,1994,53394.83732,59264.96177,48163.87817
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,1994,4.391015669,4.873755381,3.960838806
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1994,7.497982745,8.328363468,6.672056061
+Deaths,Global,Both,All ages,Breast cancer,Number,1996,436386.4707,452122.7404,418501.7464
+Deaths,Global,Both,All ages,Breast cancer,Rate,1996,7.477462641,7.747102919,7.171008691
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,1996,9.769783353,10.12539768,9.299024831
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,1992,78051.16026,83349.15974,72955.05614
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,1992,4.401480692,4.700246814,4.114099905
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1992,6.775785178,7.205537082,6.338452652
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,1994,21934.44198,25390.29225,18653.58229
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,1994,3.740564468,4.329903861,3.181066888
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,1994,8.010303212,9.395932534,6.727011153
+Deaths,High SDI,Both,All ages,Breast cancer,Number,1994,142474.1246,146170.4021,134840.0631
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,1994,16.81502493,17.25126553,15.91404072
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,1994,13.01874361,13.34224774,12.3679668
+Deaths,High SDI,Both,All ages,Breast cancer,Number,1995,143831.7552,147640.5409,136012.8877
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,1995,16.85919418,17.3056398,15.94270807
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,1995,12.89561322,13.21915238,12.23788281
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,1995,55283.14611,60814.37386,50015.41885
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,1995,4.467488811,4.914473106,4.041798267
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1995,7.570584405,8.355175289,6.793048861
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,1994,120273.4923,123995.6716,115460.0019
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,1994,10.06569301,10.37720233,9.662851819
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1994,10.6205591,10.96495178,10.14018189
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,1994,83535.34495,88935.51889,78598.88871
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,1994,4.57100395,4.866498227,4.300884026
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1994,6.84902624,7.272003939,6.446348757
+Deaths,Global,Both,All ages,Breast cancer,Number,1997,443626.1598,459789.6811,425926.0083
+Deaths,Global,Both,All ages,Breast cancer,Rate,1997,7.497838002,7.771021767,7.198683263
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,1997,9.697775203,10.0581191,9.22878098
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,1995,22616.9044,26319.33134,19220.14559
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,1995,3.752488514,4.36677747,3.188914553
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,1995,8.07377919,9.467045694,6.838792276
+Deaths,High SDI,Both,All ages,Breast cancer,Number,1996,143901.6265,147776.1441,135877.9925
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,1996,16.75192216,17.20296374,15.81787231
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,1996,12.66776524,12.98848691,12.00819206
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,1996,89146.19257,94250.0593,84096.67883
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,1996,4.742647736,5.014177471,4.474009624
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1996,6.898690533,7.287789706,6.523635557
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,1996,57495.62091,63096.95342,52406.95
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,1996,4.566807635,5.011714702,4.162620658
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1996,7.667429147,8.398377187,6.951669048
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,1997,24152.95673,27559.79179,20906.75808
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,1997,3.79373549,4.328851386,3.28385096
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,1997,8.222300998,9.470865968,7.080849226
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,1996,23367.7769,27004.32448,20122.73887
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,1996,3.771114855,4.357984487,3.247427422
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,1996,8.141396878,9.527837423,6.953174809
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,1996,122184.4348,125558.9732,117752.6512
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,1996,10.05210949,10.32973266,9.687506803
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1996,10.40049603,10.69110364,9.966275065
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,1997,122889.1135,126456.9426,118357.7002
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,1997,10.02287429,10.31386755,9.653290816
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1997,10.26414626,10.57722136,9.833176145
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,1997,60094.29024,65744.10024,54768.2002
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,1997,4.692849235,5.134050993,4.276927231
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1997,7.808623346,8.519357507,7.115991815
+Deaths,Global,Both,All ages,Breast cancer,Number,1999,461703.9377,479137.5395,441448.2205
+Deaths,Global,Both,All ages,Breast cancer,Rate,1999,7.598924995,7.885854826,7.265547557
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,1999,9.61670592,9.976529396,9.130982388
+Deaths,High SDI,Both,All ages,Breast cancer,Number,1997,143800.9325,147697.8387,135780.629
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,1997,16.62597309,17.07652551,15.69868181
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,1997,12.41453541,12.73269219,11.76873112
+Deaths,Global,Both,All ages,Breast cancer,Number,1998,451134.5758,467299.2496,432954.8261
+Deaths,Global,Both,All ages,Breast cancer,Rate,1998,7.523179922,7.792744163,7.22001201
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,1998,9.628959459,9.987884348,9.157529753
+Deaths,Global,Both,All ages,Breast cancer,Number,2000,469528.2501,486407.8516,450234.9452
+Deaths,Global,Both,All ages,Breast cancer,Rate,2000,7.627896559,7.90212043,7.314459968
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2000,9.541249063,9.888855867,9.067079482
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,1999,127860.9347,131663.9458,123565.001
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,1999,10.25143583,10.55634776,9.907003114
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1999,10.25222787,10.5721689,9.82310382
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,1997,92393.83886,97932.00564,87769.52677
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,1997,4.84939061,5.140067286,4.606678586
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1997,6.942464542,7.348879456,6.576425581
+Deaths,High SDI,Both,All ages,Breast cancer,Number,1998,144301.1689,148270.1923,136142.2767
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,1998,16.57035558,17.02612547,15.63345572
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,1998,12.20790953,12.51980749,11.56717889
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,1998,123870.1346,127255.6893,119545.5545
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,1998,10.01644698,10.29021135,9.666750681
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1998,10.14957483,10.43421531,9.732418339
+Deaths,Global,Both,All ages,Breast cancer,Number,2001,477704.3814,494074.5835,457670.9485
+Deaths,Global,Both,All ages,Breast cancer,Rate,2001,7.661012784,7.923544033,7.339733785
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2001,9.467213151,9.80425651,9.009895933
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,1999,25667.05598,29219.14148,22300.45186
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,1999,3.830486153,4.360590359,3.328062717
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,1999,8.350538281,9.549793939,7.205889516
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,1998,24965.99208,28442.0746,21711.38337
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,1998,3.821468082,4.353541407,3.323295077
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,1998,8.311801232,9.544652635,7.174871457
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,1998,61896.27666,67280.23448,56634.18558
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,1998,4.754210809,5.167748937,4.35003318
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1998,7.853988222,8.522422767,7.135321159
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2000,26414.77748,30001.31508,23070.02133
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2000,3.841983921,4.363639642,3.355494895
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2000,8.405515329,9.559159214,7.271350244
+Deaths,Global,Both,All ages,Breast cancer,Number,2003,496046.97,513274.2852,474243.5998
+Deaths,Global,Both,All ages,Breast cancer,Rate,2003,7.753332703,8.022599758,7.412540815
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2003,9.360515984,9.708223054,8.873725274
+Deaths,Global,Both,All ages,Breast cancer,Number,2002,487703.411,505502.5405,465851.6372
+Deaths,Global,Both,All ages,Breast cancer,Rate,2002,7.721134889,8.002923936,7.375185917
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2002,9.434546699,9.787435576,8.942506551
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2001,66733.63404,72447.3225,61097.12645
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2001,4.885494505,5.303787229,4.472852106
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2001,7.869204735,8.507725063,7.156921051
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2000,65034.46614,70976.96224,59483.56643
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2000,4.836574182,5.278514048,4.423757105
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2000,7.858764906,8.535995582,7.154025079
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,1999,63506.71945,69154.34029,57959.87416
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,1999,4.799204601,5.225995468,4.380029344
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1999,7.860672088,8.549074224,7.160036918
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2000,145340.9306,149586.7492,137018.1378
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2000,16.46032498,16.94117751,15.51774209
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2000,11.81604888,12.1352495,11.19504342
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2001,131937.0387,136118.7027,126917.4382
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2001,10.4069627,10.73680504,10.01102541
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2001,10.13080102,10.46114588,9.663114831
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2001,105870.1473,112106.9502,100041.2945
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2001,5.286065671,5.597467426,4.995032746
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2001,7.049136741,7.452253923,6.663200529
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2000,129906.0943,133710.3718,124874.2132
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2000,10.3295413,10.63204013,9.929429025
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2000,10.19669484,10.50563883,9.72526246
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2000,102512.9719,108425.117,97103.26508
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2000,5.179511728,5.478225388,4.90618398
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2000,7.031661489,7.424185819,6.666836292
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2002,134433.73,138537.1523,128925.4868
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2002,10.51931169,10.84040059,10.08829689
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2002,10.11241291,10.44083895,9.63436282
+Deaths,Global,Both,All ages,Breast cancer,Number,2005,511747.8759,529260.679,487561.6068
+Deaths,Global,Both,All ages,Breast cancer,Rate,2005,7.798785409,8.065671897,7.430198589
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2005,9.162088031,9.498028942,8.647957665
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,1999,98958.6453,104804.6785,93524.71966
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,1999,5.061432093,5.360438815,4.783503414
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1999,6.990031295,7.392326769,6.59891074
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2002,146402.215,150965.5036,137684.917
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2002,16.34750211,16.85704612,15.37411488
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2002,11.43585422,11.76837565,10.82094621
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,1998,95797.28368,101588.9397,90489.75608
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,1998,4.962191969,5.262193263,4.687267986
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1998,6.976107637,7.382700296,6.565837237
+Deaths,Global,Both,All ages,Breast cancer,Number,2004,501204.0584,518296.0268,478337.8955
+Deaths,Global,Both,All ages,Breast cancer,Rate,2004,7.73498026,7.998757131,7.382091421
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2004,9.211035701,9.538813713,8.698199914
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2001,145527.5895,149939.9645,136973.0125
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2001,16.36458529,16.8607571,15.40262265
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2001,11.60884749,11.93247267,10.98274333
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2002,109538.7098,116125.7622,103781.2314
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2002,5.406240565,5.731341981,5.122082451
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2002,7.094325985,7.530546902,6.695672113
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2002,28232.0921,31714.36363,24713.02591
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2002,3.889169719,4.368877172,3.404393542
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2002,8.549453381,9.636157243,7.477301711
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2004,137476.4883,141807.4081,131713.0502
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2004,10.59064997,10.92428706,10.14665728
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2004,9.89836705,10.23354321,9.400106832
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2003,136918.578,141037.7473,131049.4635
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2003,10.62951369,10.94930058,10.17387184
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2003,10.08891359,10.41941907,9.585194038
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2003,69954.99427,75458.07933,64371.65863
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2003,4.965092204,5.355676537,4.568812045
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2003,7.843999766,8.432016996,7.191919102
+Deaths,High SDI,Both,All ages,Breast cancer,Number,1999,145398.6926,149503.542,137062.5333
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,1999,16.58313618,17.05130598,15.63237341
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,1999,12.05670121,12.37292167,11.42015388
+Deaths,Global,Both,All ages,Breast cancer,Number,2006,518380.1699,536470.3205,493347.542
+Deaths,Global,Both,All ages,Breast cancer,Rate,2006,7.79988433,8.072080471,7.423227171
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2006,9.039824601,9.372556988,8.5353613
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2001,27308.02622,30886.12158,23973.87072
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2001,3.867018012,4.373702716,3.39487699
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2001,8.471294465,9.59746728,7.367644956
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2004,71112.64626,76254.06022,65793.54728
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2004,4.969194103,5.328464715,4.597507256
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2004,7.756026928,8.33972284,7.138530029
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2002,68761.66649,74378.49602,63349.35039
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2002,4.956587433,5.361468643,4.566448286
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2002,7.911000457,8.54485296,7.263910208
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2003,146831.131,151585.4889,137711.0248
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2003,16.28047444,16.80763241,15.26924708
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2003,11.23480135,11.56467924,10.60986379
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2004,29986.61847,33459.95213,26541.06094
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2004,3.912948113,4.366182758,3.46333797
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2004,8.627402789,9.628880119,7.598215679
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2003,112872.1804,119262.7983,107019.919
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2003,5.507656197,5.819489687,5.222092084
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2003,7.107391636,7.494218613,6.71591112
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2005,140010.9253,144387.3235,133935.794
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2005,10.70443562,11.03903002,10.23996578
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2005,9.849140934,10.17970974,9.343581524
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2003,29123.30929,32762.11615,25657.06995
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2003,3.904454067,4.392295408,3.439748215
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2003,8.597119001,9.664968743,7.567180091
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2004,116161.0384,122007.0258,110305.7988
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2004,5.606363816,5.888512914,5.323768169
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2004,7.096378727,7.462091829,6.717670007
+Deaths,Global,Both,All ages,Breast cancer,Number,2007,527870.96,545843.3244,502557.7907
+Deaths,Global,Both,All ages,Breast cancer,Rate,2007,7.840117071,8.107048672,7.464157366
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2007,8.96395638,9.281941693,8.450029209
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2006,31824.4524,35582.51125,28195.48954
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2006,3.934902393,4.399563798,3.486202932
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2006,8.68790439,9.743319269,7.656613636
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2005,73661.58889,78990.70135,68150.18325
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2005,5.068082675,5.434737575,4.688885594
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2005,7.813288457,8.39687742,7.217342922
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2006,139330.4936,143705.4374,133001.0436
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2006,10.5731991,10.905195,10.09288403
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2006,9.576467554,9.880239086,9.082060075
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2006,147438.1911,152739.2671,137357.9731
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2006,15.97549979,16.54989193,14.88326907
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2006,10.57116348,10.91334446,9.932489233
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2007,141102.7175,145705.5293,134292.7849
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2007,10.62846722,10.97517092,10.11551363
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2007,9.471103159,9.807687085,8.943061328
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2004,146110.7509,150825.5506,136576.0152
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2004,16.08240755,16.60136546,15.03291937
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2004,10.94613773,11.26814232,10.3160083
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2005,30874.74936,34329.72287,27227.06927
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2005,3.921080363,4.359860567,3.457826505
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2005,8.658434381,9.648371676,7.572640256
+Deaths,Global,Both,All ages,Breast cancer,Number,2008,540036.2398,559618.3871,512601.8803
+Deaths,Global,Both,All ages,Breast cancer,Rate,2008,7.91921706,8.206374223,7.51691323
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2008,8.92678791,9.275715518,8.40182414
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2005,119664.2872,125834.3316,113733.7612
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2005,5.714960836,6.009631557,5.4317291
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2005,7.099515126,7.472849228,6.73562896
+Deaths,Global,Both,All ages,Breast cancer,Number,2009,550620.696,572076.6652,522392.5273
+Deaths,Global,Both,All ages,Breast cancer,Rate,2009,7.975987297,8.286786618,7.567089636
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2009,8.856980932,9.205099498,8.343871678
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2005,147169.3653,152210.6119,137247.6682
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2005,16.07714059,16.62785867,14.99327019
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2005,10.78266934,11.11351818,10.14020514
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2006,76221.18338,82363.27697,70692.0911
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2006,5.164269516,5.58041927,4.789652887
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2006,7.858589295,8.45952895,7.25501032
+Deaths,Global,Both,All ages,Breast cancer,Number,2010,564632.4684,586444.1068,535847.2402
+Deaths,Global,Both,All ages,Breast cancer,Rate,2010,8.080816773,8.392977095,7.668852941
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2010,8.839953283,9.195456289,8.328079033
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2009,135913.0186,143184.9192,129339.3374
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2009,6.225321965,6.558402069,5.924222907
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2009,7.147546658,7.524978579,6.747295242
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2007,148317.3002,153844.4172,137727.3394
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2007,15.92812205,16.52169133,14.7908428
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2007,10.39252738,10.74139312,9.738999348
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2007,32727.58367,36453.98756,28988.69277
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2007,3.938385274,4.386814781,3.4884531
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2007,8.683255754,9.680571983,7.670836397
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2008,143356.5866,148261.4231,136610.639
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2008,10.719825,11.08659566,10.21538095
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2008,9.397476162,9.734250389,8.896197115
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2006,123191.6833,129460.2415,117625.0931
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2006,5.81983579,6.115975743,5.556858289
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2006,7.092505774,7.445187472,6.749076332
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2009,144436.058,149699.0432,137224.672
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2009,10.72513435,11.11593859,10.18965115
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2009,9.243055241,9.592214915,8.729406846
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2007,78677.2406,84945.62407,72824.87691
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2007,5.250006616,5.668285833,4.859487733
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2007,7.882118363,8.485345784,7.254461929
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2009,83634.39771,90314.34826,76604.05639
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2009,5.416992037,5.849651803,4.961637493
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2009,7.891398011,8.534938655,7.222960652
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2011,154047.9269,160472.3935,141749.2143
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2011,16.00247918,16.66985196,14.72489048
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2011,9.853180852,10.20419708,9.192847334
+Deaths,Global,Both,All ages,Breast cancer,Number,2011,577279.8585,600391.1804,546019.4743
+Deaths,Global,Both,All ages,Breast cancer,Rate,2011,8.163006647,8.489811526,7.720970224
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2011,8.799662041,9.172732501,8.261452605
+Deaths,Global,Both,All ages,Breast cancer,Number,2012,588488.2776,611570.7643,556273.4959
+Deaths,Global,Both,All ages,Breast cancer,Rate,2012,8.222308552,8.544815108,7.77220634
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2012,8.734092128,9.094309459,8.20331014
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2009,151121.2247,157197.8794,139703.8964
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2009,15.93738452,16.57823416,14.73330249
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2009,10.11861075,10.47764747,9.450971654
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2011,147630.2848,153430.8783,139625.3239
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2011,10.81499387,11.2399296,10.22857216
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2011,8.998829762,9.368289276,8.468580474
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2007,126660.6736,133251.8276,120981.0124
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2007,5.916881425,6.224783445,5.65155928
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2007,7.074812333,7.435075226,6.718351487
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2010,87624.19748,95281.90602,80463.28505
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2010,5.59317198,6.081973956,5.136081178
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2010,8.003378884,8.674214053,7.349771973
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2011,91471.71703,99812.41272,83789.71516
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2011,5.755339699,6.280130734,5.271993242
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2011,8.099535702,8.809375482,7.409499817
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2011,145698.2828,153703.6432,137505.1503
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2011,6.546970252,6.906692106,6.178810836
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2011,7.231671094,7.638509752,6.794278853
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2008,33828.17477,37720.47456,29687.68314
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2008,3.961300497,4.417091245,3.476446328
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2008,8.720507933,9.725089669,7.649171472
+Deaths,Global,Both,All ages,Breast cancer,Number,2013,603007.5714,629490.8393,566820.2566
+Deaths,Global,Both,All ages,Breast cancer,Rate,2013,8.326119139,8.691790905,7.826457263
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2013,8.709218221,9.106895568,8.153347248
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2008,81278.87258,87278.81762,74707.97381
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2008,5.342798724,5.737200094,4.910866188
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2008,7.910021036,8.516204294,7.277729498
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2008,149974.4238,155707.2941,139140.0512
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2008,15.95627393,16.56621292,14.80356927
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2008,10.270343,10.61632817,9.618909134
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2012,148970.8495,154909.6102,140935.5397
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2012,10.83565561,11.26762177,10.25119328
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2012,8.858333639,9.221206478,8.336722647
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2009,35108.44164,39366.10645,31107.21999
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2009,4.001492506,4.486760806,3.545452371
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2009,8.774938007,9.814880921,7.754862027
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2010,152176.5071,158518.1397,139947.9214
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2010,15.92611677,16.58980385,14.64632735
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2010,9.950891157,10.31205676,9.28153976
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2010,141196.6238,149233.7195,133573.1645
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2010,6.405967993,6.770604032,6.060098276
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2010,7.215125996,7.633677764,6.807723666
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2012,39743.51599,44354.04079,35345.74986
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2012,4.183952682,4.669320349,3.720982939
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2012,9.039478386,10.04236986,8.001620418
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2010,146723.4913,152390.1935,139221.2314
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2010,10.8220883,11.24005512,10.26873369
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2010,9.167296283,9.534728057,8.654513119
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2008,131200.1605,137560.477,124941.4252
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2008,6.065981234,6.360047646,5.776611384
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2008,7.109374266,7.459506945,6.751423971
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2012,155319.4235,162078.8082,142674.3353
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2012,16.01605129,16.71305782,14.7121295
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2012,9.700973622,10.06248863,9.035346903
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2011,38007.15271,42394.53599,33658.38131
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2011,4.107363858,4.581500389,3.637400043
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2011,8.918736493,9.932801604,7.927909934
+Deaths,Global,Both,All ages,Breast cancer,Number,2015,638350.6444,669210.1464,600410.2216
+Deaths,Global,Both,All ages,Breast cancer,Rate,2015,8.614787384,9.03124823,8.102766791
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2015,8.733425947,9.156585039,8.171308985
+Deaths,Global,Both,All ages,Breast cancer,Number,2014,618873.6472,647064.2358,584947.9312
+Deaths,Global,Both,All ages,Breast cancer,Rate,2014,8.447396753,8.832187877,7.984323258
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2014,8.697609062,9.107217429,8.163010776
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2012,94684.51406,103418.7501,86367.38797
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2012,5.873640658,6.41545855,5.357697682
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2012,8.136001295,8.844727911,7.440329073
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2015,156835.7242,164320.8744,147136.1533
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2015,11.19156027,11.72568927,10.49941355
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2015,8.659953957,9.080997141,8.098358776
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2015,45693.63659,51232.83864,40570.83416
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2015,4.463854502,5.00498438,3.963403095
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2015,9.420555198,10.52523385,8.386586758
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2013,150404.9776,156562.1649,141665.0676
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2013,10.86524416,11.31003891,10.23387373
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2013,8.728603987,9.098098699,8.1802325
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2010,36494.99216,40762.07585,32324.42499
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2010,4.049592511,4.523080766,3.586814015
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2010,8.837999613,9.862309776,7.8541017
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2014,152819.124,159797.8182,144235.6549
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2014,10.97083838,11.47183672,10.35463375
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2014,8.648228527,9.050389678,8.134139839
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2013,156833.9132,163901.421,143411.1034
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2013,16.05623582,16.77978833,14.68204452
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2013,9.576571262,9.947083843,8.883793903
+Deaths,Global,Both,All ages,Breast cancer,Number,2017,666366.062,706727.2924,620041.7237
+Deaths,Global,Both,All ages,Breast cancer,Rate,2017,8.793418555,9.326028502,8.182118973
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2017,8.634180787,9.158554082,7.998156291
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2012,149336.6284,157982.4157,141049.7231
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2012,6.647336248,7.032181255,6.278465956
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2012,7.200815525,7.617535455,6.769552189
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2014,157896.2481,165197.9342,144165.9503
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2014,16.0508143,16.79306126,14.65507209
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2014,9.435614054,9.807252711,8.762319617
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2014,43750.9395,49019.255,38663.78914
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2014,4.379119677,4.906435988,3.869936548
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2014,9.319554767,10.35654498,8.283747531
+Deaths,Global,Both,All ages,Breast cancer,Number,2016,653229.4849,688912.5094,612913.9463
+Deaths,Global,Both,All ages,Breast cancer,Rate,2016,8.716044267,9.19216304,8.178113836
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2016,8.697083025,9.18080568,8.111169871
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2015,110581.5702,122709.3282,98926.93688
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2015,6.583783744,7.30584381,5.88989248
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2015,8.694942662,9.618261518,7.786350322
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2013,41720.18974,46667.7031,36918.10976
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2013,4.280873746,4.788533951,3.788136339
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2013,9.18823799,10.2521698,8.144001454
+Deaths,Global,Both,All ages,Breast cancer,Number,2018,683497.958,727508.7026,633583.9219
+Deaths,Global,Both,All ages,Breast cancer,Rate,2018,8.924621587,9.499282032,8.272880233
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2018,8.626339432,9.160512119,7.981264474
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2015,164341.7362,175338.3744,153890.1433
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2015,7.1126161,7.588544296,6.660277154
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2015,7.265383055,7.741840942,6.771415272
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2014,104387.6051,115056.7018,94032.4416
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2014,6.298899819,6.942688621,5.674054201
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2014,8.458871033,9.304715205,7.619308283
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2015,160432.299,168125.816,146714.3656
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2015,16.19692017,16.97364207,14.81198538
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2015,9.375455988,9.750714954,8.709119263
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2013,99330.08967,109066.6355,90245.64451
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2013,6.076301527,6.671913476,5.520580414
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2013,8.28501385,9.058644617,7.525654284
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2016,158493.0433,167161.0953,148257.5043
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2016,11.24048098,11.85522767,10.51456658
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2016,8.533412007,9.004432492,7.962330838
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2014,159565.8814,169159.0153,150313.2204
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2014,6.970986724,7.390083891,6.566763862
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2014,7.261673149,7.70988878,6.808841901
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2016,115435.8297,129126.1295,101868.0786
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2016,6.785448955,7.590180305,5.987921162
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2016,8.810526765,9.82506582,7.777196501
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2013,154275.2261,163322.1495,145007.7071
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2013,6.802694212,7.201614085,6.394047282
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2013,7.226352018,7.645326676,6.749033818
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2018,52375.98582,59755.35393,45880.14849
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2018,4.754750673,5.424657978,4.165051283
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2018,9.763901732,11.05077399,8.619431666
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2016,169043.6231,183136.6411,156965.4406
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2016,7.245256031,7.849286645,6.727581816
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2016,7.259483651,7.845428639,6.735802882
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2017,160085.1072,170290.4003,148221.0299
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2017,11.28950746,12.00920422,10.45283007
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2017,8.40837698,8.953719144,7.76647057
+Deaths,Global,Both,All ages,Breast cancer,Number,2019,700659.9334,751555.0798,647383.8082
+Deaths,Global,Both,All ages,Breast cancer,Rate,2019,9.055420187,9.713195684,8.36687261
+Deaths,Global,Both,Age-standardized,Breast cancer,Rate,2019,8.617093362,9.248571114,7.949039691
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2019,165933.9971,179587.0875,152738.4665
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2019,11.60050001,12.55499202,10.67799614
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2019,8.308837277,8.996071955,7.628018361
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2019,167553.2003,176806.8389,151808.7391
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2019,16.53401579,17.44715745,14.98036496
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2019,9.047907874,9.473263011,8.361888783
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2017,162463.2291,170777.8094,147908.4919
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2017,16.19828177,17.02728113,14.74711195
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2017,9.13467381,9.536579251,8.461946042
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2017,119046.7578,133545.2644,104438.2944
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2017,6.913876789,7.755906341,6.065461279
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2017,8.831950855,9.896336773,7.786655599
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Number,2018,163168.3487,174625.5191,151328.2497
+Deaths,High-middle SDI,Both,All ages,Breast cancer,Rate,2018,11.45339952,12.25762136,10.62229848
+Deaths,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2018,8.366852389,8.968777825,7.744264895
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2019,127410.4026,144918.5557,110474.088
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2019,7.222883921,8.215419498,6.262765816
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2019,8.941775936,10.15918949,7.766315962
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2016,162057.2687,169851.4711,147913.6868
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2016,16.25520152,17.03700126,14.83652543
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2016,9.289271587,9.670465922,8.627344734
+Deaths,High SDI,Both,All ages,Breast cancer,Number,2018,164756.372,173559.0227,149527.126
+Deaths,High SDI,Both,All ages,Breast cancer,Rate,2018,16.33761091,17.21050147,14.82744476
+Deaths,High SDI,Both,Age-standardized,Breast cancer,Rate,2018,9.077886795,9.489758879,8.401433222
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2019,184786.7531,205342.2264,166333.8092
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2019,7.710480893,8.56818623,6.940506483
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2019,7.302071788,8.115978317,6.598314059
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2017,174383.4837,189087.3267,159400.7816
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2017,7.402192575,8.026338139,6.76621006
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2017,7.282314922,7.895239451,6.663837716
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2016,47725.11308,53484.51238,42196.37656
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2016,4.549998213,5.099085577,4.022901687
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2016,9.510636135,10.62557104,8.415167351
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2017,49901.07243,56772.09236,43897.78005
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2017,4.6419107,5.281068526,4.083470856
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2017,9.613666973,10.84993032,8.514529505
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Number,2018,122925.8835,138874.3821,107281.1874
+Deaths,Low-middle SDI,Both,All ages,Breast cancer,Rate,2018,7.053956963,7.969142762,6.156204514
+Deaths,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2018,8.871548698,10.01136782,7.765100055
+Deaths,Middle SDI,Both,All ages,Breast cancer,Number,2018,179771.3099,196979.75,163951.1178
+Deaths,Middle SDI,Both,All ages,Breast cancer,Rate,2018,7.563301816,8.28729179,6.897717923
+Deaths,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2018,7.305112499,7.988222609,6.639360054
+Deaths,Low SDI,Both,All ages,Breast cancer,Number,2019,54466.64635,62057.26164,47489.72853
+Deaths,Low SDI,Both,All ages,Breast cancer,Rate,2019,4.825708671,5.498232141,4.207558388
+Deaths,Low SDI,Both,Age-standardized,Breast cancer,Rate,2019,9.825891536,11.12096934,8.586828496
+Incidence,Global,Both,All ages,Breast cancer,Number,1990,876992.8187,903815.4237,849689.1559
+Incidence,Global,Both,All ages,Breast cancer,Rate,1990,16.39285583,16.89422721,15.88249247
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,1990,21.4440683,22.10062891,20.64719642
+Incidence,Global,Both,All ages,Breast cancer,Number,1991,905782.8643,934367.6348,876549.8261
+Incidence,Global,Both,All ages,Breast cancer,Rate,1991,16.6726429,17.19879954,16.13455367
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,1991,21.64510232,22.3073442,20.89315681
+Incidence,Global,Both,All ages,Breast cancer,Number,1992,935463.4297,962281.7965,905747.1483
+Incidence,Global,Both,All ages,Breast cancer,Rate,1992,16.96369526,17.45001956,16.42482017
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,1992,21.84956329,22.47861886,21.05961156
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,1990,66097.67697,74326.32985,58235.27619
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,1990,5.851174629,6.579600909,5.155170139
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1990,9.579815404,10.73752507,8.385649285
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,1992,71108.62701,78806.65752,63861.21056
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,1992,6.062686292,6.719016557,5.444775157
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1992,9.801578452,10.86898918,8.749960361
+Incidence,Global,Both,All ages,Breast cancer,Number,1993,981603.354,1009063.668,952635.1802
+Incidence,Global,Both,All ages,Breast cancer,Rate,1993,17.544405,18.03520901,17.02665068
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,1993,22.41981109,23.07949934,21.65311872
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,1991,237218.7065,245106.3881,229604.5179
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,1991,20.40935541,21.08798022,19.75426087
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1991,21.30154457,22.00069364,20.57007747
+Incidence,High SDI,Both,All ages,Breast cancer,Number,1993,474169.0121,484729.7188,456737.0359
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,1993,56.35741416,57.61260822,54.28553457
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,1993,45.17998843,46.1226725,43.67930445
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,1990,228473.9521,236308.8101,220963.3757
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,1990,19.85984903,20.54088551,19.20700037
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1990,20.93212573,21.62990019,20.2305243
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,1991,131595.4699,141841.6437,122004.5586
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,1991,7.538902042,8.125889572,6.989453483
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1991,10.82040224,11.63447096,10.05463779
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,1992,245808.5273,253528.6698,238558.9393
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,1992,20.94345022,21.60122406,20.32576869
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1992,21.63864074,22.31258658,20.93239124
+Incidence,Global,Both,All ages,Breast cancer,Number,1994,1014605.415,1041923.477,982889.8554
+Incidence,Global,Both,All ages,Breast cancer,Rate,1994,17.87800605,18.35936804,17.3191573
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,1994,22.6358647,23.26491393,21.81335304
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,1991,68126.45225,76254.20158,60425.58097
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,1991,5.9173398,6.623301332,5.24845612
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1991,9.633810032,10.79140331,8.494934169
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,1993,260477.2792,268626.772,251963.0204
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,1993,21.99118418,22.67921731,21.27235514
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1993,22.4984548,23.20681153,21.73987156
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,1994,270788.4747,278548.4878,261071.1461
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,1994,22.66229744,23.31173323,21.84905385
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1994,22.94250728,23.61384222,22.09209548
+Incidence,Global,Both,All ages,Breast cancer,Number,1995,1044307.924,1072587.496,1012631.863
+Incidence,Global,Both,All ages,Breast cancer,Rate,1995,18.14508769,18.63645168,17.59470892
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,1995,22.77605035,23.43513421,21.97588255
+Incidence,High SDI,Both,All ages,Breast cancer,Number,1994,484747.8438,495136.1435,466873.3005
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,1994,57.21071877,58.43676259,55.10113648
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,1994,45.42388584,46.35549305,43.83442784
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,1992,26401.89281,30518.59959,22225.70579
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,1992,4.744222126,5.48396346,3.993792639
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,1992,9.380128268,10.94897622,7.863812375
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,1990,24853.68374,28759.41086,20721.5127
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,1990,4.705885651,5.445410037,3.92348556
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,1990,9.240419582,10.79352605,7.655419557
+Incidence,High SDI,Both,All ages,Breast cancer,Number,1990,431076.4118,440218.4765,416846.3304
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,1990,52.44158819,53.55374459,50.71046106
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,1990,43.19725257,44.10525349,41.83214518
+Incidence,High SDI,Both,All ages,Breast cancer,Number,1991,442736.4351,451910.0013,427006.2171
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,1991,53.4271174,54.53413539,51.52887695
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,1991,43.67019852,44.56021411,42.19101701
+Incidence,High SDI,Both,All ages,Breast cancer,Number,1992,453553.5184,462927.1052,436634.2837
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,1992,54.30683978,55.4291988,52.28099249
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,1992,43.96370452,44.84361282,42.47679004
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,1994,152318.5082,162041.9112,143644.0057
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,1994,8.33477737,8.866836148,7.860113798
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1994,11.47126845,12.19042822,10.8321321
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,1991,25561.54831,29607.35876,21536.62115
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,1991,4.716131853,5.462588026,3.973528669
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,1991,9.288164586,10.85241294,7.782411167
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,1993,74240.71439,82081.167,67069.38973
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,1993,6.215337106,6.871729712,5.61496303
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1993,9.98313377,11.09634136,8.98385001
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,1994,77990.19651,85856.05473,70599.02259
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,1994,6.413657051,7.06051934,5.805831236
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1994,10.21684538,11.25092769,9.208596437
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,1990,125965.4588,136062.4794,116279.2882
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,1990,7.337412094,7.925557465,6.773198494
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1990,10.65968392,11.4810265,9.866040477
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,1992,138026.2923,149108.3894,128736.0391
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,1992,7.783613449,8.408557859,7.259715149
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1992,11.03445912,11.84638697,10.33114936
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,1993,27246.26388,31378.18107,23206.64785
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,1993,4.771369661,5.494951595,4.063951519
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,1993,9.477581113,11.00023908,8.003031448
+Incidence,Global,Both,All ages,Breast cancer,Number,1996,1068529.57,1095063.227,1034077.193
+Incidence,Global,Both,All ages,Breast cancer,Rate,1996,18.30920635,18.76385938,17.71886641
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,1996,22.76805343,23.34909017,21.92953661
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,1994,28157.95315,32559.32994,24184.63721
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,1994,4.801883682,5.552467337,4.124298885
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,1994,9.57578617,11.12153191,8.153225832
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,1995,81425.88491,89629.84229,74479.96718
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,1995,6.580110854,7.243081224,6.018803983
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1995,10.40434831,11.41462098,9.466033341
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,1993,144880.7118,156233.0982,135076.2477
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,1993,8.04619604,8.676670067,7.501688499
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1993,11.26212873,12.09182287,10.53519686
+Incidence,Global,Both,All ages,Breast cancer,Number,1997,1095280.682,1123828.651,1058980.897
+Incidence,Global,Both,All ages,Breast cancer,Rate,1997,18.511616,18.99411246,17.89810415
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,1997,22.79194979,23.40182367,21.90853736
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,1995,276288.6301,284568.4884,267615.5151
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,1995,22.92690769,23.61398463,22.20719763
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1995,22.97606345,23.65906467,22.23640809
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,1996,281162.4701,289624.5886,272814.3911
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,1996,23.13122732,23.82740552,22.44443113
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1996,22.91894975,23.61286017,22.17686784
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,1997,89881.44669,98174.90569,82517.48614
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,1997,7.018970964,7.666619061,6.443908733
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1997,10.90702486,11.90352503,10.00235819
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,1995,29135.42488,33403.11128,25084.43804
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,1995,4.83401023,5.542084327,4.161889885
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,1995,9.682344256,11.18727166,8.24673395
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,1996,85395.62053,93683.86546,78164.58901
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,1996,6.782870862,7.441196133,6.208518774
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1996,10.63031534,11.62195845,9.699731068
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,1996,30269.22801,35023.74111,26083.14949
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,1996,4.884877835,5.652165842,4.209324359
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,1996,9.811221695,11.37180256,8.388425457
+Incidence,Global,Both,All ages,Breast cancer,Number,1998,1126507.654,1155018.502,1093387.924
+Incidence,Global,Both,All ages,Breast cancer,Rate,1998,18.7857908,19.26124148,18.2334818
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,1998,22.89224308,23.48350157,22.10525013
+Incidence,High SDI,Both,All ages,Breast cancer,Number,1996,502568.2852,513236.3655,484203.3238
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,1996,58.50513991,59.74703589,56.36723216
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,1996,45.58724548,46.4809631,44.01290969
+Incidence,Global,Both,All ages,Breast cancer,Number,1999,1164343.475,1194693.288,1130478.821
+Incidence,Global,Both,All ages,Breast cancer,Rate,1999,19.16327329,19.66278376,18.60591403
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,1999,23.10197209,23.70813641,22.27577541
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,1997,286723.2909,294927.3798,278018.7917
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,1997,23.38524072,24.05436876,22.67529906
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1997,22.9092443,23.57121453,22.14931101
+Incidence,High SDI,Both,All ages,Breast cancer,Number,1995,497410.9315,508433.384,478909.162
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,1995,58.30386666,59.59585998,56.13518754
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,1995,45.84701833,46.81904087,44.27216714
+Incidence,High SDI,Both,All ages,Breast cancer,Number,1998,518408.1514,529743.0412,498568.2511
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,1998,59.52971461,60.83131982,57.25146415
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,1998,45.45461329,46.39937945,43.86183659
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,1997,31429.31856,35961.18243,27278.07574
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,1997,4.936642854,5.64846845,4.284601891
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,1997,9.946763043,11.4009382,8.583224527
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,1995,159424.0175,169322.0373,150302.8349
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,1995,8.599839964,9.13377072,8.107814283
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1995,11.64155344,12.33477508,10.98919689
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,1996,168489.9692,178388.9719,159582.5885
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,1996,8.963799213,9.490433966,8.489919539
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1996,11.93795438,12.62690239,11.31670001
+Incidence,High SDI,Both,All ages,Breast cancer,Number,1997,509544.8185,520507.3833,490199.3043
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,1997,58.91254174,60.18001132,56.67585249
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,1997,45.45734219,46.39806144,43.89606309
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,1998,295279.3042,303786.4655,286116.2773
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,1998,23.8770185,24.56492871,23.13607337
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1998,23.12103239,23.77194505,22.36166854
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,1999,308462.229,317195.3844,299831.3286
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,1999,24.73140647,25.43159986,24.0394115
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,1999,23.64437347,24.31686459,22.92118326
+Incidence,Global,Both,All ages,Breast cancer,Number,2000,1194379.072,1226850.599,1158020.058
+Incidence,Global,Both,All ages,Breast cancer,Rate,2000,19.40373133,19.93125964,18.81304737
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2000,23.12996531,23.75441105,22.3356238
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,1997,177044.4748,187124.5409,167691.3496
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,1997,9.292370834,9.821434014,8.801461941
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1997,12.17382897,12.82044009,11.55547669
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,1999,195056.5001,206928.3994,184551.9309
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,1999,9.976543503,10.58375485,9.439266907
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1999,12.60548687,13.34011718,11.98209479
+Incidence,Global,Both,All ages,Breast cancer,Number,2001,1227521.503,1262952.966,1187109.172
+Incidence,Global,Both,All ages,Breast cancer,Rate,2001,19.6859361,20.25415549,19.03783782
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2001,23.18930261,23.87469219,22.2716903
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,1999,95973.57808,104269.1596,88156.82125
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,1999,7.252726033,7.879623367,6.662013497
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1999,11.08645414,11.98532212,10.19468645
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2001,36406.03795,41146.95515,31926.68673
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2001,5.155363604,5.82671246,4.52105442
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2001,10.45633448,11.78729414,9.112110135
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2000,316991.4202,326533.6493,307390.5886
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2000,25.20571483,25.96446945,24.4423004
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2000,23.7926153,24.5375297,23.00574662
+Incidence,High SDI,Both,All ages,Breast cancer,Number,1999,530361.4194,541704.5732,509340.3487
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,1999,60.48923471,61.7829538,58.09172155
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,1999,45.71165845,46.64984135,44.05640084
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2000,99014.52284,107025.383,91190.80808
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2000,7.363650588,7.959413446,6.781805621
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2000,11.16085949,12.01974555,10.27208981
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,1998,93044.22848,101587.1049,85085.42734
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,1998,7.14666375,7.802836264,6.535353661
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,1998,11.02196164,12.00419514,10.11852011
+Incidence,Global,Both,All ages,Breast cancer,Number,2002,1264189.274,1299802.964,1224536.504
+Incidence,Global,Both,All ages,Breast cancer,Rate,2002,20.0141637,20.5779861,19.38639615
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2002,23.32634112,24.01465688,22.49048273
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2001,102689.2523,110889.5972,94934.52015
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2001,7.517764996,8.118103046,6.950049749
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2001,11.29144301,12.1074778,10.45204501
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2001,326064.9272,336948.1326,314113.4407
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2001,25.7194308,26.577879,24.77671847
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2001,23.95572703,24.78926769,23.02034291
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2000,537676.5169,549376.2294,517562.4072
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2000,60.89358426,62.2186141,58.61559704
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2000,45.55853885,46.48570226,43.99733601
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2001,215593.2647,229211.8377,203290.9172
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2001,10.76450902,11.44448041,10.15025639
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2001,13.12996875,13.92571659,12.38874718
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,1999,33777.67972,38788.93096,29498.31038
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,1999,5.040895011,5.788761401,4.402252816
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,1999,10.19616152,11.70027156,8.878634666
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2000,34940.22379,39384.22973,30645.01175
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2000,5.081995413,5.728368428,4.457264214
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2000,10.30331455,11.66210106,9.026572552
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2002,336686.715,348323.4586,325359.2627
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2002,26.34541568,27.25597981,25.4590533
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2002,24.24934453,25.11827157,23.40248593
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2001,546004.9606,557707.6436,525337.8661
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2001,61.39828729,62.71425463,59.0742714
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2001,45.50258668,46.41963264,43.97610313
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,1998,32670.22875,37021.82287,28360.02453
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,1998,5.000732035,5.666817245,4.340982253
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,1998,10.10220174,11.54056972,8.734680012
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2002,106748.8883,114954.4343,98898.66204
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2002,7.694842567,8.286327739,7.128970115
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2002,11.45320598,12.32890478,10.6042663
+Incidence,Global,Both,All ages,Breast cancer,Number,2003,1302363.425,1337565.257,1262192.179
+Incidence,Global,Both,All ages,Breast cancer,Rate,2003,20.35625162,20.90646467,19.72836544
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2003,23.4580859,24.10667117,22.60312992
+Incidence,Global,Both,All ages,Breast cancer,Number,2004,1328123.643,1367400.298,1281431.278
+Incidence,Global,Both,All ages,Breast cancer,Rate,2004,20.49666197,21.1028106,19.77606819
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2004,23.3153802,24.04578112,22.39090401
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2003,350222.2835,361787.5426,338779.9685
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2003,27.18909742,28.08695278,26.30078667
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2003,24.72571285,25.56891668,23.8346908
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,1998,186417.9831,198197.1741,176378.5639
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,1998,9.656242676,10.26639157,9.136212008
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,1998,12.41720291,13.15201864,11.80047497
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2004,248514.1418,263072.4698,235862.9154
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2004,11.99421692,12.69685598,11.38362167
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2004,13.94204749,14.73821246,13.23004885
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2002,556247.9778,568472.543,535100.5885
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2002,62.11152608,63.4765403,59.75017524
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2002,45.52400859,46.46188145,43.96319834
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2000,205021.8019,217285.8688,193616.5119
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2000,10.35881419,10.97846141,9.782557035
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2000,12.86244964,13.61330169,12.18131706
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2002,37896.36878,42279.87742,33538.5318
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2002,5.220491964,5.824351182,4.620169197
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2002,10.61208794,11.83774897,9.373235151
+Incidence,Global,Both,All ages,Breast cancer,Number,2007,1437178.238,1478322.751,1382587.027
+Incidence,Global,Both,All ages,Breast cancer,Rate,2007,21.34545465,21.9565468,20.53464761
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2007,23.37434131,24.05812647,22.36530888
+Incidence,Global,Both,All ages,Breast cancer,Number,2005,1369631.527,1411157.862,1319289.798
+Incidence,Global,Both,All ages,Breast cancer,Rate,2005,20.87250944,21.50535031,20.1053263
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2005,23.44329812,24.16483251,22.42297848
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2004,111952.4773,119748.1582,104086.6446
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2004,7.822990978,8.367735882,7.273344025
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2004,11.39156232,12.14663555,10.56253597
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2003,566465.6657,579416.7822,543508.5762
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2003,62.80909046,64.24509602,60.2636336
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2003,45.53650399,46.48982061,43.90741245
+Incidence,Global,Both,All ages,Breast cancer,Number,2006,1396147.584,1437712.405,1343829
+Incidence,Global,Both,All ages,Breast cancer,Rate,2006,21.00734228,21.63275354,20.22012292
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2006,23.29639493,24.00189441,22.32341652
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2003,109169.85,117115.2068,101769.9505
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2003,7.74838704,8.312312887,7.223175319
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2003,11.42000361,12.22613123,10.63183198
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2004,357686.0558,370526.6518,344368.9011
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2004,27.55473217,28.54392138,26.52883076
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2004,24.7064664,25.59767582,23.69034611
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2005,117157.4711,125446.0307,107696.0636
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2005,8.060697013,8.630968516,7.409730934
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2005,11.59434952,12.41899976,10.67073477
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2006,374977.447,387794.0142,360159.5277
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2006,28.45544506,29.42803987,27.33097613
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2006,24.80379261,25.67630759,23.78215032
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2002,225822.1759,239769.122,213189.0335
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2002,11.14536596,11.83371208,10.52186211
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2002,13.40069488,14.23176704,12.66592523
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2004,40813.5819,45534.11698,36069.43476
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2004,5.325756502,5.941738222,4.706693649
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2004,10.83715997,12.11003911,9.584706973
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2006,122436.6987,131454.2534,114115.0483
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2006,8.295543088,8.906516059,7.731720226
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2006,11.78226689,12.64336212,10.98657932
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2004,568307.4583,581681.1282,544206.1218
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2004,62.55359104,64.02563062,59.90075739
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2004,44.86631278,45.84165462,43.17795868
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2005,371136.9669,383993.6347,357513.5815
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2005,28.37501258,29.35795996,27.33344635
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2005,25.08707546,25.95283382,24.09351252
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2007,387752.6255,401166.9706,372557.1726
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2007,29.20720553,30.21763205,28.06261827
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2007,25.09460792,26.00459905,24.0285873
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2003,39355.35254,43886.81447,34915.97288
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2003,5.276226159,5.883742454,4.681054992
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2003,10.73392411,11.97629809,9.472767162
+Incidence,Global,Both,All ages,Breast cancer,Number,2008,1490410.405,1534318.461,1433242.26
+Incidence,Global,Both,All ages,Breast cancer,Rate,2008,21.85572492,22.49960287,21.01739794
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2008,23.62347827,24.35814398,22.59784631
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2005,42346.60865,47314.33196,37463.15887
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2005,5.378001736,6.008900535,4.757805639
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2005,10.94587899,12.26141532,9.657054508
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2006,581118.7974,596285.6963,556330.349
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2006,62.96647534,64.60986765,60.28055082
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2006,44.25137226,45.31271882,42.52249394
+Incidence,Global,Both,All ages,Breast cancer,Number,2009,1538366.844,1581875.91,1480489.762
+Incidence,Global,Both,All ages,Breast cancer,Rate,2009,22.28393246,22.91418077,21.44555702
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2009,23.75964367,24.45969967,22.76627248
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2005,577195.4975,592056.921,552245.9208
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2005,63.05424462,64.67774278,60.32869198
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2005,44.74314257,45.81310914,43.05820028
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2006,43858.64887,48697.56816,38810.55173
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2006,5.422858506,6.021161811,4.798691615
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2006,11.02614137,12.29621996,9.748897287
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2007,589701.3179,605875.9379,563045.4706
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2007,63.32932538,65.06635349,60.46669514
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2007,44.04819389,45.14670287,42.21104842
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2003,236325.1628,250170.5354,223789.1807
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2003,11.53160808,12.20720017,10.91990837
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2003,13.65631148,14.46179579,12.93789524
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2008,401845.5449,416712.5767,386573.722
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2008,30.04894314,31.16066031,28.90695676
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2008,25.44895491,26.39726808,24.43093458
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2005,260913.8015,275956.5409,248030.2375
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2005,12.46079504,13.17921044,11.84549815
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2005,14.22323748,15.05605749,13.50313991
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2007,127609.4575,137447.4399,117954.6625
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2007,8.515175303,9.171648158,7.870926251
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2007,11.94042219,12.82864266,11.03999051
+Incidence,Global,Both,All ages,Breast cancer,Number,2010,1583255.338,1635271.327,1524294.717
+Incidence,Global,Both,All ages,Breast cancer,Rate,2010,22.65898085,23.40341498,21.81515765
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2010,23.83838114,24.62767323,22.84449665
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2006,272852.8217,287342.8447,259089.8708
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2006,12.89014465,13.574684,12.23995373
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2006,14.45227412,15.22774865,13.73172052
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2009,318600.8132,335571.1137,302396.1418
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2009,14.59310272,15.37040562,13.85086847
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2009,15.48730968,16.28076808,14.68773086
+Incidence,Global,Both,All ages,Breast cancer,Number,2011,1626099.908,1686880.378,1563059.358
+Incidence,Global,Both,All ages,Breast cancer,Rate,2011,22.99381169,23.8532759,22.10238888
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2011,23.87234817,24.76228594,22.87873382
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2010,424503.7868,440639.2698,407128.0198
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2010,31.31071529,32.50084252,30.02910672
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2010,25.74683103,26.73653857,24.64520425
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2010,622123.7598,640691.7346,593357.8935
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2010,65.1087072,67.05194891,62.09819952
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2010,43.93177062,45.11461802,42.17094021
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2009,413277.7,428151.9007,396178.5639
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2009,30.68803537,31.79252274,29.4183349
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2009,25.61207294,26.49581392,24.51520552
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2010,146834.6115,158358.0407,136193.6022
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2010,9.372653424,10.10820962,8.693423296
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2010,12.56932728,13.53826544,11.6589934
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2008,605558.1242,622904.8264,577545.3172
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2008,64.42732745,66.27290034,61.44695246
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2008,44.37987523,45.53715691,42.61694282
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2009,138475.9425,149547.8424,127730.2953
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2009,8.969073713,9.68619962,8.273079158
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2009,12.22255589,13.18271815,11.2891042
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2008,133039.6539,143109.9519,123329.0091
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2008,8.745250401,9.407213021,8.106929285
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2008,12.09760692,12.99151463,11.20949611
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2007,45319.74023,50893.6407,40145.73944
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2007,5.453705332,6.124459633,4.83107432
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2007,11.06597055,12.39651631,9.787893546
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2009,617811.2683,635951.9834,588362.3119
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2009,65.15494936,67.068086,62.04923511
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2009,44.45404874,45.62621518,42.59499977
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2010,51536.19332,57695.03604,45770.48722
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2010,5.718608779,6.402012223,5.078828938
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2010,11.46123754,12.83636432,10.12680267
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2009,49200.27293,54799.75058,43534.7565
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2009,5.607612136,6.245813856,4.961883631
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2009,11.30027477,12.58622003,9.984326752
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2007,285858.9412,301589.2406,271948.2769
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2007,13.35373808,14.08857008,12.7039093
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2007,14.70786708,15.49386864,13.95898682
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2008,47065.57438,52300.38415,41600.43742
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2008,5.5114083,6.12440781,4.871437331
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2008,11.15561625,12.41933771,9.855050429
+Incidence,Global,Both,All ages,Breast cancer,Number,2012,1656105.805,1715883.381,1582417.464
+Incidence,Global,Both,All ages,Breast cancer,Rate,2012,23.13897055,23.9741778,22.10940326
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2012,23.71076151,24.58304897,22.56154921
+Incidence,Global,Both,All ages,Breast cancer,Number,2013,1698732.881,1762581.112,1626555.689
+Incidence,Global,Both,All ages,Breast cancer,Rate,2013,23.4555137,24.3371079,22.4589161
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2013,23.71434431,24.61894126,22.62236567
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2011,431666.2135,451208.5785,413253.133
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2011,31.62269489,33.05431549,30.2738026
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2011,25.61593081,26.77084404,24.5161776
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2010,337235.4696,356588.6951,318793.8394
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2010,15.30007989,16.17811889,14.46339917
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2010,15.95012011,16.84848451,15.08840109
+Incidence,Global,Both,All ages,Breast cancer,Number,2014,1746711.442,1817002.928,1667883.546
+Incidence,Global,Both,All ages,Breast cancer,Rate,2014,23.84196618,24.801419,22.76599451
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2014,23.77603221,24.75996227,22.64073027
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2011,154706.9306,167598.947,141938.793
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2011,9.734057352,10.54521446,8.930694612
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2011,12.8633511,13.90596148,11.83263914
+Incidence,Global,Both,All ages,Breast cancer,Number,2015,1801604.943,1880006.472,1717594.832
+Incidence,Global,Both,All ages,Breast cancer,Rate,2015,24.3133514,25.37141018,23.17960265
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2015,23.92975419,24.98020496,22.75791312
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2011,631999.2996,651490.5813,600898.0738
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2011,65.65200741,67.67675929,62.421216
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2011,43.85821142,45.04765438,42.04138701
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2008,301927.3365,318413.489,286930.9257
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2008,13.9594765,14.72170645,13.2661241
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2008,15.09371436,15.89217114,14.31431302
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2012,438119.7979,458022.5122,417483.7198
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2012,31.86741072,33.3150695,30.36640944
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2012,25.43815322,26.59353535,24.17830862
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2012,161507.8907,175450.6292,148255.1397
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2012,10.01894896,10.88387008,9.196830391
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2012,13.05494053,14.13091045,12.00165142
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2013,170610.8335,186537.4425,155939.723
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2013,10.43674552,11.41102108,9.539272338
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2013,13.4007476,14.62385046,12.25323224
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2011,54023.37895,60305.21073,47882.87539
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2011,5.838208294,6.517074427,5.174615244
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2011,11.63794133,12.92356256,10.31725178
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2013,446656.6357,467758.8256,425296.6953
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2013,32.26644146,33.79086205,30.72340098
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2013,25.38631152,26.58296658,24.17018178
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2014,63304.09556,70531.84837,56206.39483
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2014,6.336234459,7.059674799,5.625811293
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2014,12.37349771,13.71408679,11.0439598
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2012,632714.9131,652173.1878,600247.952
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2012,65.24357529,67.25005148,61.8956842
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2012,43.0798787,44.27077146,41.24486219
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2015,474953.2374,500892.6236,450121.5506
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2015,33.89194526,35.74294066,32.11999362
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2015,25.87686756,27.29122718,24.52196532
+Incidence,Global,Both,All ages,Breast cancer,Number,2016,1844756.883,1931356.313,1754499.647
+Incidence,Global,Both,All ages,Breast cancer,Rate,2016,24.61460027,25.77009689,23.41029752
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2016,23.906683,25.01916675,22.69346078
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2012,56824.17898,63748.61949,50687.00449
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2012,5.982099725,6.711062192,5.336015778
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2012,11.86672458,13.18640774,10.61499481
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2013,60083.65087,67357.00171,53238.24317
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2013,6.16513312,6.911445562,5.462731567
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2013,12.14099517,13.53861111,10.79654108
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2014,180571.3416,198969.4608,163931.3201
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2014,10.89593721,12.00610647,9.891854127
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2014,13.79430367,15.12571549,12.54806607
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2013,639055.3867,659611.0404,604636.904
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2013,65.42477823,67.52921098,61.90110618
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2013,42.73898027,43.96520555,40.84421489
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2014,399392.786,428048.6298,373341.0883
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2014,17.4483529,18.7002465,16.31022714
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2014,16.98029329,18.16613368,15.85276538
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2014,458836.5812,481886.6955,435447.4312
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2014,32.93973847,34.59449916,31.26063852
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2014,25.52487265,26.79380967,24.21374729
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2011,352660.4268,375744.6862,333388.5512
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2011,15.84683964,16.88413367,14.98085554
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2011,16.23031696,17.27458191,15.32474649
+Incidence,Global,Both,All ages,Breast cancer,Number,2017,1890100.039,2010464.692,1771258.558
+Incidence,Global,Both,All ages,Breast cancer,Rate,2017,24.94190761,26.53024896,23.37366616
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2017,23.90433639,25.45251694,22.38019567
+Incidence,Global,Both,All ages,Breast cancer,Number,2019,2002354.128,2172539.903,1832150.243
+Incidence,Global,Both,All ages,Breast cancer,Rate,2019,25.8786854,28.07818851,23.67894823
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2019,24.16638875,26.24477726,22.10880243
+Incidence,Global,Both,All ages,Breast cancer,Number,2018,1949203.322,2091208.735,1808536.325
+Incidence,Global,Both,All ages,Breast cancer,Rate,2018,25.45128604,27.30548995,23.61455822
+Incidence,Global,Both,Age-standardized,Breast cancer,Rate,2018,24.07536697,25.82983954,22.30766505
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2017,450290.8376,494321.7363,409920.0696
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2017,19.11384854,20.98286265,17.40019887
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2017,17.74167351,19.43660052,16.18401995
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2015,652810.5294,675289.2205,618267.607
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2015,65.90642967,68.17583282,62.41904615
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2015,42.1778462,43.45193197,40.36704995
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2016,662476.4117,685050.3646,626764.0701
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2016,66.44988937,68.71417629,62.86775255
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2016,42.14731328,43.37321875,40.24891869
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2013,381236.4355,406528.6506,358921.9392
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2013,16.810443,17.92569143,15.82649568
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2013,16.63757331,17.73495093,15.64926233
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2017,210337.2633,235609.6344,185394.2746
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2017,12.21575412,13.68349725,10.76714054
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2017,14.79347798,16.53811426,13.07923991
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2017,491384.3128,531479.7168,456120.7361
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2017,34.65336008,37.48096455,32.16650532
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2017,25.70307342,27.80109949,23.84407019
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2015,192213.1588,211832.2618,172698.8286
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2015,11.44394919,12.61202748,10.28210884
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2015,14.27915994,15.69356505,12.86390419
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2012,365874.8802,389799.6371,345258.0249
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2012,16.28598007,17.35092914,15.36827374
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2012,16.39507544,17.42726486,15.43603778
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2014,643496.4721,664199.5492,608934.6268
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2014,65.41410898,67.51866341,61.90075279
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2014,42.31175528,43.49567251,40.3949939
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2016,201997.7406,225207.3406,179418.1158
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2016,11.87365623,13.23794283,10.54640028
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2016,14.59461479,16.23348995,12.97753607
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2018,220152.0066,248038.7063,193450.576
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2018,12.63316346,14.23340886,11.10093333
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2018,15.07380146,16.95811458,13.24829389
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2018,505233.3666,549270.6169,459701.782
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2018,35.46422848,38.55536855,32.26819547
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2018,25.91902691,28.19463156,23.56628389
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2016,481385.7468,510910.5766,453930.0219
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2016,34.14034595,36.23427564,32.19315921
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2016,25.68856658,27.26025543,24.19947914
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2017,663342.6939,702913.6535,619469.4814
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2017,66.13811583,70.08351047,61.7637681
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2017,41.57052684,43.9955407,39.09155658
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2017,73548.00497,83111.72456,64291.46188
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2017,6.841601887,7.731240728,5.980537297
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2017,13.00172163,14.6351798,11.46167142
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2015,66480.32158,74806.25587,58659.81853
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2015,6.494525385,7.307893766,5.730533058
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2015,12.57750619,14.0776567,11.10039962
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2016,69867.32392,78602.69545,62066.17624
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2016,6.660983672,7.493793115,5.917240897
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2016,12.77925198,14.28302139,11.36720151
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2018,77950.33776,88475.47934,67705.00493
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2018,7.076418996,8.03190314,6.146336203
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2018,13.32255318,15.03520884,11.62572194
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2018,670909.7472,732696.3131,614219.7592
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2018,66.52891338,72.65580766,60.90740718
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2018,41.39652034,45.14684116,37.85284349
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Number,2019,516514.7181,574124.8134,464367.6613
+Incidence,High-middle SDI,Both,All ages,Breast cancer,Rate,2019,36.10971286,40.13725346,32.46409507
+Incidence,High-middle SDI,Both,Age-standardized,Breast cancer,Rate,2019,26.00444112,28.87964233,23.34443686
+Incidence,Low SDI,Both,All ages,Breast cancer,Number,2019,81721.24716,93260.08478,71258.02662
+Incidence,Low SDI,Both,All ages,Breast cancer,Rate,2019,7.24044819,8.262781535,6.313413804
+Incidence,Low SDI,Both,Age-standardized,Breast cancer,Rate,2019,13.50879237,15.21965928,11.93041679
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Number,2019,230769.2691,259295.0792,202825.6448
+Incidence,Low-middle SDI,Both,All ages,Breast cancer,Rate,2019,13.08228849,14.69941402,11.49816702
+Incidence,Low-middle SDI,Both,Age-standardized,Breast cancer,Rate,2019,15.38410007,17.27033748,13.5403824
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2015,414007.3686,445543.7904,385987.4672
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2015,17.9180015,19.28287975,16.70531623
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2015,17.15510702,18.45648596,15.98905486
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2018,473723.6516,527161.4763,424348.3016
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2018,19.93040466,22.17862991,17.85309503
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2018,18.21796621,20.25732484,16.32939804
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2016,427864.6977,463142.1508,395079.1603
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2016,18.33839825,19.85039956,16.93320113
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2016,17.28378486,18.71195808,15.93038881
+Incidence,High SDI,Both,All ages,Breast cancer,Number,2019,678944.5964,753695.7045,606880.2409
+Incidence,High SDI,Both,All ages,Breast cancer,Rate,2019,66.99770975,74.3740893,59.88645678
+Incidence,High SDI,Both,Age-standardized,Breast cancer,Rate,2019,41.2239868,45.64672339,36.87511454
+Incidence,Middle SDI,Both,All ages,Breast cancer,Number,2019,493145.6535,552894.2433,437194.7628
+Incidence,Middle SDI,Both,All ages,Breast cancer,Rate,2019,20.57717923,23.07027115,18.24255153
+Incidence,Middle SDI,Both,Age-standardized,Breast cancer,Rate,2019,18.51667838,20.75596569,16.42523937

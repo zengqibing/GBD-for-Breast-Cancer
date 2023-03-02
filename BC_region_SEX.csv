@@ -1,0 +1,541 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Deaths,Male,Male,All ages,Breast cancer,Number,1990,5889.139072,6370.689442,5425.135894
+Deaths,Female,Female,All ages,Breast cancer,Number,1990,375016.059,390819.9087,358977.7001
+Deaths,Both,Both,All ages,Breast cancer,Number,1990,380905.198,396713.6901,364814.6218
+Deaths,Male,Male,All ages,Breast cancer,Rate,1990,0.218622375,0.236498959,0.201397196
+Deaths,Female,Female,All ages,Breast cancer,Rate,1990,14.11905842,14.71406088,13.51522688
+Deaths,Both,Both,All ages,Breast cancer,Rate,1990,7.11992603,7.415420275,6.819159033
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,1990,0.366592968,0.397280255,0.336570911
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,1990,17.75559948,18.50975196,16.92546398
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,1990,9.797010559,10.20907967,9.303872485
+Deaths,Male,Male,All ages,Breast cancer,Number,1993,6292.903505,6729.322059,5836.731558
+Deaths,Female,Female,All ages,Breast cancer,Number,1993,405290.7944,420981.1693,389630.6024
+Deaths,Both,Both,All ages,Breast cancer,Number,1993,411583.6979,427275.1778,395788.4356
+Deaths,Male,Male,All ages,Breast cancer,Rate,1993,0.223112419,0.238585467,0.206939022
+Deaths,Female,Female,All ages,Breast cancer,Rate,1993,14.60793076,15.17346028,14.04348912
+Deaths,Both,Both,All ages,Breast cancer,Rate,1993,7.356322751,7.636779901,7.074010678
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,1993,0.361886671,0.388794947,0.333404335
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,1993,17.95972505,18.64848986,17.21396421
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,1993,9.876680047,10.25436445,9.408554266
+Deaths,Male,Male,All ages,Breast cancer,Number,1991,6023.964607,6488.156078,5546.798058
+Deaths,Female,Female,All ages,Breast cancer,Number,1991,382852.2152,399167.0716,366846.3425
+Deaths,Both,Both,All ages,Breast cancer,Number,1991,388876.1798,405457.798,372392.9799
+Deaths,Male,Male,All ages,Breast cancer,Rate,1991,0.220118241,0.237079995,0.202682371
+Deaths,Female,Female,All ages,Breast cancer,Rate,1991,14.20046396,14.80560224,13.60678628
+Deaths,Both,Both,All ages,Breast cancer,Rate,1991,7.157999928,7.463215903,6.85459553
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,1991,0.365532266,0.395463694,0.333785177
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,1991,17.72680636,18.50721203,16.90429366
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,1991,9.771789653,10.20903736,9.283339168
+Deaths,Male,Male,All ages,Breast cancer,Number,1992,6131.256744,6575.755896,5659.410506
+Deaths,Female,Female,All ages,Breast cancer,Number,1992,392147.8246,407844.8211,375027.9861
+Deaths,Both,Both,All ages,Breast cancer,Number,1992,398279.0813,414149.634,381008.1629
+Deaths,Male,Male,All ages,Breast cancer,Rate,1992,0.22062693,0.236621772,0.203648032
+Deaths,Female,Female,All ages,Breast cancer,Rate,1992,14.33557567,14.90940387,13.70973325
+Deaths,Both,Both,All ages,Breast cancer,Rate,1992,7.222393468,7.510190095,6.909202607
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,1992,0.362281129,0.39056615,0.331996092
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,1992,17.75839335,18.48676807,16.92547006
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,1992,9.776581836,10.16258565,9.265256168
+Deaths,Male,Male,All ages,Breast cancer,Number,1994,6424.598268,6873.49755,5976.83945
+Deaths,Female,Female,All ages,Breast cancer,Number,1994,415464.1137,430303.2792,398746.8667
+Deaths,Both,Both,All ages,Breast cancer,Number,1994,421888.712,436732.0692,404864.0148
+Deaths,Male,Male,All ages,Breast cancer,Rate,1994,0.224519508,0.240207126,0.208871745
+Deaths,Female,Female,All ages,Breast cancer,Rate,1994,14.76590406,15.29329905,14.17176065
+Deaths,Both,Both,All ages,Breast cancer,Rate,1994,7.433952974,7.695502565,7.133966758
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,1994,0.359679198,0.385710419,0.331677489
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,1994,18.00110577,18.65101789,17.19253419
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,1994,9.885708692,10.25085909,9.388790018
+Deaths,Male,Male,All ages,Breast cancer,Number,1997,6670.572103,7099.700598,6247.48202
+Deaths,Female,Female,All ages,Breast cancer,Number,1997,436955.5877,453040.602,419558.3004
+Deaths,Both,Both,All ages,Breast cancer,Number,1997,443626.1598,459789.6811,425926.0083
+Deaths,Male,Male,All ages,Breast cancer,Rate,1997,0.223598467,0.237982911,0.209416431
+Deaths,Female,Female,All ages,Breast cancer,Rate,1997,14.89567473,15.44400767,14.30260683
+Deaths,Both,Both,All ages,Breast cancer,Rate,1997,7.497838002,7.771021767,7.198683263
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,1997,0.344951069,0.367752509,0.320061826
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,1997,17.68824963,18.32622657,16.90183701
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,1997,9.697775203,10.0581191,9.22878098
+Deaths,Male,Male,All ages,Breast cancer,Number,1996,6557.669155,6977.419475,6130.232598
+Deaths,Female,Female,All ages,Breast cancer,Number,1996,429828.8016,445462.8723,412138.7645
+Deaths,Both,Both,All ages,Breast cancer,Number,1996,436386.4707,452122.7404,418501.7464
+Deaths,Male,Male,All ages,Breast cancer,Rate,1996,0.222836899,0.237100482,0.208312129
+Deaths,Female,Female,All ages,Breast cancer,Rate,1996,14.85645592,15.39682661,14.24502352
+Deaths,Both,Both,All ages,Breast cancer,Rate,1996,7.477462641,7.747102919,7.171008691
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,1996,0.348658624,0.3726307,0.323045618
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,1996,17.80938476,18.45311278,17.0119476
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,1996,9.769783353,10.12539768,9.299024831
+Deaths,Male,Male,All ages,Breast cancer,Number,1995,6506.234292,6951.926823,6060.654645
+Deaths,Female,Female,All ages,Breast cancer,Number,1995,423147.8233,439080.0863,405898.5593
+Deaths,Both,Both,All ages,Breast cancer,Number,1995,429654.0576,445586.5685,412334.2354
+Deaths,Male,Male,All ages,Breast cancer,Rate,1995,0.224189347,0.239546851,0.208835733
+Deaths,Female,Female,All ages,Breast cancer,Rate,1995,14.83061605,15.38901494,14.2260585
+Deaths,Both,Both,All ages,Breast cancer,Rate,1995,7.465336968,7.742167967,7.164401117
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,1995,0.355188021,0.381284395,0.328457351
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,1995,17.93396441,18.59464692,17.13673474
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,1995,9.842515367,10.20798672,9.368074768
+Deaths,Male,Male,All ages,Breast cancer,Number,1998,6767.546354,7180.082017,6337.312406
+Deaths,Female,Female,All ages,Breast cancer,Number,1998,444367.0294,460742.1055,426357.7348
+Deaths,Both,Both,All ages,Breast cancer,Number,1998,451134.5758,467299.2496,432954.8261
+Deaths,Male,Male,All ages,Breast cancer,Rate,1998,0.223860982,0.237507085,0.209629444
+Deaths,Female,Female,All ages,Breast cancer,Rate,1998,14.94428185,15.49498372,14.33862041
+Deaths,Both,Both,All ages,Breast cancer,Rate,1998,7.523179922,7.792744163,7.22001201
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,1998,0.340902657,0.362823243,0.316891862
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,1998,17.56753407,18.218502,16.79077513
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,1998,9.628959459,9.987884348,9.157529753
+Deaths,Male,Male,All ages,Breast cancer,Number,1999,6896.573352,7323.622263,6478.498867
+Deaths,Female,Female,All ages,Breast cancer,Number,1999,454807.3643,472091.8634,434881.0872
+Deaths,Both,Both,All ages,Breast cancer,Number,1999,461703.9377,479137.5395,441448.2205
+Deaths,Male,Male,All ages,Breast cancer,Rate,1999,0.225202063,0.239147002,0.211550177
+Deaths,Female,Female,All ages,Breast cancer,Rate,1999,15.09224119,15.66580672,14.43101139
+Deaths,Both,Both,All ages,Breast cancer,Rate,1999,7.598924995,7.885854826,7.265547557
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,1999,0.337893725,0.358892115,0.314811413
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,1999,17.55458493,18.22628283,16.74253077
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,1999,9.61670592,9.976529396,9.130982388
+Deaths,Male,Male,All ages,Breast cancer,Number,2000,7023.251561,7420.348528,6607.109671
+Deaths,Female,Female,All ages,Breast cancer,Number,2000,462504.9985,479136.5693,443258.5656
+Deaths,Both,Both,All ages,Breast cancer,Number,2000,469528.2501,486407.8516,450234.9452
+Deaths,Male,Male,All ages,Breast cancer,Rate,2000,0.226435859,0.239238618,0.213019076
+Deaths,Female,Female,All ages,Breast cancer,Rate,2000,15.14543914,15.69006557,14.51518503
+Deaths,Both,Both,All ages,Breast cancer,Rate,2000,7.627896559,7.90212043,7.314459968
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2000,0.334217843,0.354153674,0.311697413
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2000,17.43044604,18.0541153,16.65899235
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2000,9.541249063,9.888855867,9.067079482
+Deaths,Male,Male,All ages,Breast cancer,Number,2001,7129.485562,7519.461217,6707.151127
+Deaths,Female,Female,All ages,Breast cancer,Number,2001,470574.8959,486883.4005,450730.2275
+Deaths,Both,Both,All ages,Breast cancer,Number,2001,477704.3814,494074.5835,457670.9485
+Deaths,Male,Male,All ages,Breast cancer,Rate,2001,0.226969145,0.239384127,0.213524011
+Deaths,Female,Female,All ages,Breast cancer,Rate,2001,15.20752445,15.73456485,14.56620618
+Deaths,Both,Both,All ages,Breast cancer,Rate,2001,7.661012784,7.923544033,7.339733785
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2001,0.329788701,0.349113321,0.30930823
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2001,17.30684866,17.91277239,16.52012921
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2001,9.467213151,9.80425651,9.009895933
+Deaths,Male,Male,All ages,Breast cancer,Number,2002,7310.454436,7724.942445,6890.214136
+Deaths,Female,Female,All ages,Breast cancer,Number,2002,480392.9566,498057.4451,458439.4915
+Deaths,Both,Both,All ages,Breast cancer,Number,2002,487703.411,505502.5405,465851.6372
+Deaths,Male,Male,All ages,Breast cancer,Rate,2002,0.229808581,0.242838263,0.216598071
+Deaths,Female,Female,All ages,Breast cancer,Rate,2002,15.32174472,15.8851393,14.62155672
+Deaths,Both,Both,All ages,Breast cancer,Rate,2002,7.721134889,8.002923936,7.375185917
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2002,0.328724699,0.348209198,0.308714108
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2002,17.25246654,17.88884246,16.41882964
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2002,9.434546699,9.787435576,8.942506551
+Deaths,Male,Male,All ages,Breast cancer,Number,2005,7907.383881,8346.081741,7485.856696
+Deaths,Female,Female,All ages,Breast cancer,Number,2005,503840.492,521283.1971,480036.2363
+Deaths,Both,Both,All ages,Breast cancer,Number,2005,511747.8759,529260.679,487561.6068
+Deaths,Male,Male,All ages,Breast cancer,Rate,2005,0.239483171,0.252769582,0.226716791
+Deaths,Female,Female,All ages,Breast cancer,Rate,2005,15.45504814,15.99009415,14.72486483
+Deaths,Both,Both,All ages,Breast cancer,Rate,2005,7.798785409,8.065671897,7.430198589
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2005,0.324952815,0.343249203,0.305455122
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2005,16.77584752,17.36854283,15.91815201
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2005,9.162088031,9.498028942,8.647957665
+Deaths,Male,Male,All ages,Breast cancer,Number,2006,8247.87224,8663.960182,7814.343644
+Deaths,Female,Female,All ages,Breast cancer,Number,2006,510132.2976,527936.8086,485279.585
+Deaths,Both,Both,All ages,Breast cancer,Number,2006,518380.1699,536470.3205,493347.542
+Deaths,Male,Male,All ages,Breast cancer,Rate,2006,0.246692942,0.259138086,0.23372615
+Deaths,Female,Female,All ages,Breast cancer,Rate,2006,15.44628017,15.98538241,14.69376565
+Deaths,Both,Both,All ages,Breast cancer,Rate,2006,7.79988433,8.072080471,7.423227171
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2006,0.328477561,0.346083311,0.309430023
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2006,16.54848849,17.13896945,15.68326435
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2006,9.039824601,9.372556988,8.5353613
+Deaths,Male,Male,All ages,Breast cancer,Number,2004,7629.249972,8028.66851,7220.69163
+Deaths,Female,Female,All ages,Breast cancer,Number,2004,493574.8084,510586.3637,470865.0184
+Deaths,Both,Both,All ages,Breast cancer,Number,2004,501204.0584,518296.0268,478337.8955
+Deaths,Male,Male,All ages,Breast cancer,Rate,2004,0.233919971,0.246166518,0.221393188
+Deaths,Female,Female,All ages,Breast cancer,Rate,2004,15.33684863,15.86544864,14.63118739
+Deaths,Both,Both,All ages,Breast cancer,Rate,2004,7.73498026,7.998757131,7.382091421
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2004,0.323475855,0.341156691,0.304382102
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2004,16.86134604,17.44244542,16.03766378
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2004,9.211035701,9.538813713,8.698199914
+Deaths,Male,Male,All ages,Breast cancer,Number,2003,7500.464467,7891.390121,7088.940504
+Deaths,Female,Female,All ages,Breast cancer,Number,2003,488546.5055,505678.9454,466670.1699
+Deaths,Both,Both,All ages,Breast cancer,Number,2003,496046.97,513274.2852,474243.5998
+Deaths,Male,Male,All ages,Breast cancer,Rate,2003,0.232845882,0.244981854,0.220070452
+Deaths,Female,Female,All ages,Breast cancer,Rate,2003,15.37934424,15.91866994,14.69068166
+Deaths,Both,Both,All ages,Breast cancer,Rate,2003,7.753332703,8.022599758,7.412540815
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2003,0.327665614,0.346251407,0.307725241
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2003,17.12355474,17.73450946,16.30846014
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2003,9.360515984,9.708223054,8.873725274
+Deaths,Male,Male,All ages,Breast cancer,Number,2008,9050.404098,9574.912921,8530.202771
+Deaths,Female,Female,All ages,Breast cancer,Number,2008,530985.8358,550565.0799,503855.6618
+Deaths,Both,Both,All ages,Breast cancer,Number,2008,540036.2398,559618.3871,512601.8803
+Deaths,Male,Male,All ages,Breast cancer,Rate,2008,0.263907289,0.279201821,0.248738361
+Deaths,Female,Female,All ages,Breast cancer,Rate,2008,15.66364174,16.2412132,14.86332411
+Deaths,Both,Both,All ages,Breast cancer,Rate,2008,7.91921706,8.206374223,7.51691323
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2008,0.337875555,0.357650217,0.316052444
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2008,16.34027878,16.95854516,15.47007732
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2008,8.92678791,9.275715518,8.40182414
+Deaths,Male,Male,All ages,Breast cancer,Number,2007,8617.887618,9102.530358,8131.828117
+Deaths,Female,Female,All ages,Breast cancer,Number,2007,519253.0724,537257.0209,494157.6422
+Deaths,Both,Both,All ages,Breast cancer,Number,2007,527870.96,545843.3244,502557.7907
+Deaths,Male,Male,All ages,Breast cancer,Rate,2007,0.254473142,0.268783907,0.240120543
+Deaths,Female,Female,All ages,Breast cancer,Rate,2007,15.51682839,16.05483999,14.76690218
+Deaths,Both,Both,All ages,Breast cancer,Rate,2007,7.840117071,8.107048672,7.464157366
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2007,0.332245418,0.351626666,0.311201357
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2007,16.40884455,16.98670685,15.56609915
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2007,8.96395638,9.281941693,8.450029209
+Deaths,Male,Male,All ages,Breast cancer,Number,2009,9490.102573,10070.68733,8883.922847
+Deaths,Female,Female,All ages,Breast cancer,Number,2009,541130.5934,562348.6385,513530.7503
+Deaths,Both,Both,All ages,Breast cancer,Number,2009,550620.696,572076.6652,522392.5273
+Deaths,Male,Male,All ages,Breast cancer,Rate,2009,0.273429265,0.290157099,0.255963987
+Deaths,Female,Female,All ages,Breast cancer,Rate,2009,15.76394959,16.38206321,14.95992457
+Deaths,Both,Both,All ages,Breast cancer,Rate,2009,7.975987297,8.286786618,7.567089636
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2009,0.343409714,0.363724258,0.319277596
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2009,16.21368934,16.86852486,15.34801177
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2009,8.856980932,9.205099498,8.343871678
+Deaths,Male,Male,All ages,Breast cancer,Number,2010,9929.323615,10576.26896,9328.795935
+Deaths,Female,Female,All ages,Breast cancer,Number,2010,554703.1448,576567.1012,526304.4191
+Deaths,Both,Both,All ages,Breast cancer,Number,2010,564632.4684,586444.1068,535847.2402
+Deaths,Male,Male,All ages,Breast cancer,Rate,2010,0.282748258,0.301170728,0.265647581
+Deaths,Female,Female,All ages,Breast cancer,Rate,2010,15.95992238,16.58899227,15.14283406
+Deaths,Both,Both,All ages,Breast cancer,Rate,2010,8.080816773,8.392977095,7.668852941
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2010,0.348563315,0.370483316,0.32436961
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2010,16.18424084,16.83260513,15.32222847
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2010,8.839953283,9.195456289,8.328079033
+Deaths,Male,Male,All ages,Breast cancer,Number,2011,10276.95468,10953.25362,9608.512227
+Deaths,Female,Female,All ages,Breast cancer,Number,2011,567002.9038,589607.2434,535827.928
+Deaths,Both,Both,All ages,Breast cancer,Number,2011,577279.8585,600391.1804,546019.4743
+Deaths,Male,Male,All ages,Breast cancer,Rate,2011,0.289234861,0.308268635,0.2704222
+Deaths,Female,Female,All ages,Breast cancer,Rate,2011,16.11375836,16.75615518,15.22779107
+Deaths,Both,Both,All ages,Breast cancer,Rate,2011,8.163006647,8.489811526,7.720970224
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2011,0.349869414,0.37310024,0.325637774
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2011,16.10952982,16.76398414,15.19313349
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2011,8.799662041,9.172732501,8.261452605
+Deaths,Male,Male,All ages,Breast cancer,Number,2012,10590.80879,11356.0216,9852.122742
+Deaths,Female,Female,All ages,Breast cancer,Number,2012,577897.4688,601171.5794,546018.6057
+Deaths,Both,Both,All ages,Breast cancer,Number,2012,588488.2776,611570.7643,556273.4959
+Deaths,Male,Male,All ages,Breast cancer,Rate,2012,0.294590817,0.315875751,0.274043743
+Deaths,Female,Female,All ages,Breast cancer,Rate,2012,16.22339822,16.87677565,15.32845834
+Deaths,Both,Both,All ages,Breast cancer,Rate,2012,8.222308552,8.544815108,7.77220634
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2012,0.349611934,0.374260626,0.324794875
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2012,15.98897509,16.6284367,15.07164825
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2012,8.734092128,9.094309459,8.20331014
+Deaths,Male,Male,All ages,Breast cancer,Number,2014,11052.88476,11907.43461,10184.69281
+Deaths,Female,Female,All ages,Breast cancer,Number,2014,607820.7624,636116.2631,574223.016
+Deaths,Both,Both,All ages,Breast cancer,Number,2014,618873.6472,647064.2358,584947.9312
+Deaths,Male,Male,All ages,Breast cancer,Rate,2014,0.300506505,0.323740058,0.276902049
+Deaths,Female,Female,All ages,Breast cancer,Rate,2014,16.66120304,17.43682163,15.74024261
+Deaths,Both,Both,All ages,Breast cancer,Rate,2014,8.447396753,8.832187877,7.984323258
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2014,0.345147917,0.370225698,0.317353189
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2014,15.94427814,16.68945806,15.03862013
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2014,8.697609062,9.107217429,8.163010776
+Deaths,Male,Male,All ages,Breast cancer,Number,2013,10893.93007,11675.09999,10027.4998
+Deaths,Female,Female,All ages,Breast cancer,Number,2013,592113.6413,618947.2889,556083.5271
+Deaths,Both,Both,All ages,Breast cancer,Number,2013,603007.5714,629490.8393,566820.2566
+Deaths,Male,Male,All ages,Breast cancer,Rate,2013,0.29953714,0.321016019,0.275713961
+Deaths,Female,Female,All ages,Breast cancer,Rate,2013,16.42278774,17.16704233,15.42346113
+Deaths,Both,Both,All ages,Breast cancer,Rate,2013,8.326119139,8.691790905,7.826457263
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2013,0.349857297,0.373445994,0.321767147
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2013,15.95069337,16.67368581,14.97199745
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2013,8.709218221,9.106895568,8.153347248
+Deaths,Male,Male,All ages,Breast cancer,Number,2015,11226.72437,12113.77898,10238.63707
+Deaths,Female,Female,All ages,Breast cancer,Number,2015,627123.92,657715.0887,589501.9566
+Deaths,Both,Both,All ages,Breast cancer,Number,2015,638350.6444,669210.1464,600410.2216
+Deaths,Male,Male,All ages,Breast cancer,Rate,2015,0.301848768,0.325698676,0.275282432
+Deaths,Female,Female,All ages,Breast cancer,Rate,2015,16.99237366,17.82126338,15.97297951
+Deaths,Both,Both,All ages,Breast cancer,Rate,2015,8.614787384,9.03124823,8.102766791
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2015,0.340743868,0.367891829,0.310086345
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2015,16.02730461,16.8138865,15.04479633
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2015,8.733425947,9.156585039,8.171308985
+Deaths,Male,Male,All ages,Breast cancer,Number,2017,11538.6409,12607.45109,10360.387
+Deaths,Female,Female,All ages,Breast cancer,Number,2017,654827.4211,695646.9144,608793.254
+Deaths,Both,Both,All ages,Breast cancer,Number,2017,666366.062,706727.2924,620041.7237
+Deaths,Male,Male,All ages,Breast cancer,Rate,2017,0.303456781,0.331565612,0.272469671
+Deaths,Female,Female,All ages,Breast cancer,Rate,2017,17.34362352,18.42476017,16.1243721
+Deaths,Both,Both,All ages,Breast cancer,Rate,2017,8.793418555,9.326028502,8.182118973
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2017,0.33051242,0.360983323,0.297520281
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2017,15.88815335,16.87394882,14.77228872
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2017,8.634180787,9.158554082,7.998156291
+Deaths,Male,Male,All ages,Breast cancer,Number,2018,11800.71711,13055.88555,10526.95439
+Deaths,Female,Female,All ages,Breast cancer,Number,2018,671697.2409,715549.2812,621356.8484
+Deaths,Both,Both,All ages,Breast cancer,Number,2018,683497.958,727508.7026,633583.9219
+Deaths,Male,Male,All ages,Breast cancer,Rate,2018,0.307142586,0.339811422,0.27398979
+Deaths,Female,Female,All ages,Breast cancer,Rate,2018,17.59997132,18.74899294,16.28094035
+Deaths,Both,Both,All ages,Breast cancer,Rate,2018,8.924621587,9.499282032,8.272880233
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2018,0.328758671,0.362932822,0.293989006
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2018,15.88732264,16.91969772,14.69409521
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2018,8.626339432,9.160512119,7.981264474
+Deaths,Male,Male,All ages,Breast cancer,Number,2016,11397.3165,12455.0238,10361.28442
+Deaths,Female,Female,All ages,Breast cancer,Number,2016,641832.1684,677552.9632,601718.8397
+Deaths,Both,Both,All ages,Breast cancer,Number,2016,653229.4849,688912.5094,612913.9463
+Deaths,Male,Male,All ages,Breast cancer,Rate,2016,0.303025701,0.331147452,0.275480239
+Deaths,Female,Female,All ages,Breast cancer,Rate,2016,17.19166258,18.14845453,16.11721532
+Deaths,Both,Both,All ages,Breast cancer,Rate,2016,8.716044267,9.19216304,8.178113836
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2016,0.336077002,0.367168096,0.305549686
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2016,15.98158074,16.87173783,14.96995492
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2016,8.697083025,9.18080568,8.111169871
+Deaths,Male,Male,All ages,Breast cancer,Number,2019,12097.67122,13322.46062,10692.89732
+Deaths,Female,Female,All ages,Breast cancer,Number,2019,688562.2622,739571.4732,635323.1315
+Deaths,Both,Both,All ages,Breast cancer,Number,2019,700659.9334,751555.0798,647383.8082
+Deaths,Male,Male,All ages,Breast cancer,Rate,2019,0.311717351,0.343276161,0.27552093
+Deaths,Female,Female,All ages,Breast cancer,Rate,2019,17.85463616,19.17732106,16.47412875
+Deaths,Both,Both,All ages,Breast cancer,Rate,2019,9.055420187,9.713195684,8.36687261
+Deaths,Male,Male,Age-standardized,Breast cancer,Rate,2019,0.327562308,0.359623038,0.289884663
+Deaths,Female,Female,Age-standardized,Breast cancer,Rate,2019,15.88379554,17.07108381,14.65568509
+Deaths,Both,Both,Age-standardized,Breast cancer,Rate,2019,8.617093362,9.248571114,7.949039691
+Incidence,Male,Male,All ages,Breast cancer,Number,1990,9371.978533,9964.866429,8809.091285
+Incidence,Female,Female,All ages,Breast cancer,Number,1990,867620.8402,894764.1605,840399.5377
+Incidence,Both,Both,All ages,Breast cancer,Number,1990,876992.8187,903815.4237,849689.1559
+Incidence,Male,Male,All ages,Breast cancer,Rate,1990,0.347915745,0.369925509,0.327019694
+Incidence,Female,Female,All ages,Breast cancer,Rate,1990,32.66523936,33.68716393,31.64037882
+Incidence,Both,Both,All ages,Breast cancer,Rate,1990,16.39285583,16.89422721,15.88249247
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,1990,0.534349786,0.569338536,0.498188232
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,1990,40.11789192,41.3255903,38.78139582
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,1990,21.4440683,22.10062891,20.64719642
+Incidence,Male,Male,All ages,Breast cancer,Number,1992,9937.631935,10499.66602,9394.322576
+Incidence,Female,Female,All ages,Breast cancer,Number,1992,925525.7978,952109.3709,895963.2597
+Incidence,Both,Both,All ages,Breast cancer,Number,1992,935463.4297,962281.7965,905747.1483
+Incidence,Male,Male,All ages,Breast cancer,Rate,1992,0.357595403,0.377819619,0.338044978
+Incidence,Female,Female,All ages,Breast cancer,Rate,1992,33.8340398,34.8058438,32.75333509
+Incidence,Both,Both,All ages,Breast cancer,Rate,1992,16.96369526,17.45001956,16.42482017
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,1992,0.538828097,0.57032345,0.506962092
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,1992,40.96968494,42.18546206,39.60150511
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,1992,21.84956329,22.47861886,21.05961156
+Incidence,Male,Male,All ages,Breast cancer,Number,1993,10399.6611,10943.09326,9851.967896
+Incidence,Female,Female,All ages,Breast cancer,Number,1993,971203.6929,998703.4003,942686.6309
+Incidence,Both,Both,All ages,Breast cancer,Number,1993,981603.354,1009063.668,952635.1802
+Incidence,Male,Male,All ages,Breast cancer,Rate,1993,0.368715894,0.387983068,0.349297647
+Incidence,Female,Female,All ages,Breast cancer,Rate,1993,35.00517775,35.99635206,33.97733485
+Incidence,Both,Both,All ages,Breast cancer,Rate,1993,17.544405,18.03520901,17.02665068
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,1993,0.549319432,0.579185128,0.516396482
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,1993,42.08021842,43.30489909,40.70279385
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,1993,22.41981109,23.07949934,21.65311872
+Incidence,Male,Male,All ages,Breast cancer,Number,1991,9640.211919,10236.89397,9098.121025
+Incidence,Female,Female,All ages,Breast cancer,Number,1991,896142.6524,924749.8957,867067.8835
+Incidence,Both,Both,All ages,Breast cancer,Number,1991,905782.8643,934367.6348,876549.8261
+Incidence,Male,Male,All ages,Breast cancer,Rate,1991,0.352257463,0.37406048,0.33244923
+Incidence,Female,Female,All ages,Breast cancer,Rate,1991,33.23904352,34.30012169,32.16062425
+Incidence,Both,Both,All ages,Breast cancer,Rate,1991,16.6726429,17.19879954,16.13455367
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,1991,0.536301512,0.5700853,0.503026253
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,1991,40.54080635,41.7844237,39.16510903
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,1991,21.64510232,22.3073442,20.89315681
+Incidence,Male,Male,All ages,Breast cancer,Number,1995,11014.66123,11548.24412,10476.52063
+Incidence,Female,Female,All ages,Breast cancer,Number,1995,1033293.263,1061954.461,1002117.486
+Incidence,Both,Both,All ages,Breast cancer,Number,1995,1044307.924,1072587.496,1012631.863
+Incidence,Male,Male,All ages,Breast cancer,Rate,1995,0.379539008,0.397925005,0.360995964
+Incidence,Female,Female,All ages,Breast cancer,Rate,1995,36.2151825,37.21970905,35.12252422
+Incidence,Both,Both,All ages,Breast cancer,Rate,1995,18.14508769,18.63645168,17.59470892
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,1995,0.553714495,0.582163782,0.523370282
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,1995,42.83260068,44.03148116,41.4474505
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,1995,22.77605035,23.43513421,21.97588255
+Incidence,Male,Male,All ages,Breast cancer,Number,1994,10756.32878,11273.70851,10190.18723
+Incidence,Female,Female,All ages,Breast cancer,Number,1994,1003849.087,1031328.572,972704.2828
+Incidence,Both,Both,All ages,Breast cancer,Number,1994,1014605.415,1041923.477,982889.8554
+Incidence,Male,Male,All ages,Breast cancer,Rate,1994,0.375899868,0.393980663,0.356115001
+Incidence,Female,Female,All ages,Breast cancer,Rate,1994,35.67754425,36.65418563,34.57063472
+Incidence,Both,Both,All ages,Breast cancer,Rate,1994,17.87800605,18.35936804,17.3191573
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,1994,0.553711762,0.582401421,0.522841728
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,1994,42.53677314,43.71179371,41.09955777
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,1994,22.6358647,23.26491393,21.81335304
+Incidence,Male,Male,All ages,Breast cancer,Number,1997,11463.89161,11989.3516,10926.02695
+Incidence,Female,Female,All ages,Breast cancer,Number,1997,1083816.79,1112584.836,1047684.746
+Incidence,Both,Both,All ages,Breast cancer,Number,1997,1095280.682,1123828.651,1058980.897
+Incidence,Male,Male,All ages,Breast cancer,Rate,1997,0.384271176,0.401884665,0.366241881
+Incidence,Female,Female,All ages,Breast cancer,Rate,1997,36.94696401,37.92765741,35.71523432
+Incidence,Both,Both,All ages,Breast cancer,Rate,1997,18.511616,18.99411246,17.89810415
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,1997,0.54799246,0.574744722,0.520838161
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,1997,42.91548575,44.0489855,41.37617467
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,1997,22.79194979,23.40182367,21.90853736
+Incidence,Male,Male,All ages,Breast cancer,Number,1996,11195.99938,11720.36807,10665.41044
+Incidence,Female,Female,All ages,Breast cancer,Number,1996,1057333.571,1084016.038,1022759.429
+Incidence,Both,Both,All ages,Breast cancer,Number,1996,1068529.57,1095063.227,1034077.193
+Incidence,Male,Male,All ages,Breast cancer,Rate,1996,0.380452524,0.398271155,0.362422521
+Incidence,Female,Female,All ages,Breast cancer,Rate,1996,36.54531649,37.46756019,35.35030768
+Incidence,Both,Both,All ages,Breast cancer,Rate,1996,18.30920635,18.76385938,17.71886641
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,1996,0.549080604,0.576193524,0.52011257
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,1996,42.84194578,43.93082154,41.39761741
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,1996,22.76805343,23.34909017,21.92953661
+Incidence,Male,Male,All ages,Breast cancer,Number,1999,12187.78391,12696.28174,11654.06288
+Incidence,Female,Female,All ages,Breast cancer,Number,1999,1152155.692,1182255.717,1118110.329
+Incidence,Both,Both,All ages,Breast cancer,Number,1999,1164343.475,1194693.288,1130478.821
+Incidence,Male,Male,All ages,Breast cancer,Rate,1999,0.397982293,0.414586882,0.380554062
+Incidence,Female,Female,All ages,Breast cancer,Rate,1999,38.23291562,39.23174914,37.10316078
+Incidence,Both,Both,All ages,Breast cancer,Rate,1999,19.16327329,19.66278376,18.60591403
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,1999,0.553507282,0.577675643,0.52650531
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,1999,43.53806975,44.66620579,42.16641081
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,1999,23.10197209,23.70813641,22.27577541
+Incidence,Male,Male,All ages,Breast cancer,Number,2000,12504.0336,13022.93597,11973.08751
+Incidence,Female,Female,All ages,Breast cancer,Number,2000,1181875.039,1214296.524,1145732.995
+Incidence,Both,Both,All ages,Breast cancer,Number,2000,1194379.072,1226850.599,1158020.058
+Incidence,Male,Male,All ages,Breast cancer,Rate,2000,0.403141133,0.419871006,0.38602296
+Incidence,Female,Female,All ages,Breast cancer,Rate,2000,38.70232004,39.76401155,37.5187931
+Incidence,Both,Both,All ages,Breast cancer,Rate,2000,19.40373133,19.93125964,18.81304737
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2000,0.552680565,0.575895373,0.526486654
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2000,43.62461376,44.81534378,42.24927765
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2000,23.12996531,23.75441105,22.3356238
+Incidence,Male,Male,All ages,Breast cancer,Number,1998,11780.22127,12265.54273,11235.37072
+Incidence,Female,Female,All ages,Breast cancer,Number,1998,1114727.432,1142897.236,1081685.352
+Incidence,Both,Both,All ages,Breast cancer,Number,1998,1126507.654,1155018.502,1093387.924
+Incidence,Male,Male,All ages,Breast cancer,Rate,1998,0.389673267,0.405727024,0.371650372
+Incidence,Female,Female,All ages,Breast cancer,Rate,1998,37.48883206,38.43619643,36.37761066
+Incidence,Both,Both,All ages,Breast cancer,Rate,1998,18.7857908,19.26124148,18.2334818
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,1998,0.549381391,0.573570125,0.522129052
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,1998,43.12143423,44.20890183,41.737156
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,1998,22.89224308,23.48350157,22.10525013
+Incidence,Male,Male,All ages,Breast cancer,Number,2001,12796.9434,13304.13005,12282.35955
+Incidence,Female,Female,All ages,Breast cancer,Number,2001,1214724.56,1249976.25,1174874.431
+Incidence,Both,Both,All ages,Breast cancer,Number,2001,1227521.503,1262952.966,1187109.172
+Incidence,Male,Male,All ages,Breast cancer,Rate,2001,0.407394232,0.42354066,0.391012313
+Incidence,Female,Female,All ages,Breast cancer,Rate,2001,39.25613883,40.39536437,37.968306
+Incidence,Both,Both,All ages,Breast cancer,Rate,2001,19.6859361,20.25415549,19.03783782
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2001,0.55089724,0.574421102,0.525574858
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2001,43.76842221,45.05344675,42.20223832
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2001,23.18930261,23.87469219,22.2716903
+Incidence,Male,Male,All ages,Breast cancer,Number,2002,13205.81292,13721.89556,12648.93212
+Incidence,Female,Female,All ages,Breast cancer,Number,2002,1250983.461,1286536.421,1211262.885
+Incidence,Both,Both,All ages,Breast cancer,Number,2002,1264189.274,1299802.964,1224536.504
+Incidence,Male,Male,All ages,Breast cancer,Rate,2002,0.41513276,0.431356132,0.397626873
+Incidence,Female,Female,All ages,Breast cancer,Rate,2002,39.89910547,41.03303837,38.63224985
+Incidence,Both,Both,All ages,Breast cancer,Rate,2002,20.0141637,20.5779861,19.38639615
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2002,0.553884719,0.577539387,0.528570907
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2002,44.04033326,45.31911837,42.58099252
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2002,23.32634112,24.01465688,22.49048273
+Incidence,Male,Male,All ages,Breast cancer,Number,2005,14592.54014,15173.95108,13959.08702
+Incidence,Female,Female,All ages,Breast cancer,Number,2005,1355038.987,1396546.707,1305021.004
+Incidence,Both,Both,All ages,Breast cancer,Number,2005,1369631.527,1411157.862,1319289.798
+Incidence,Male,Male,All ages,Breast cancer,Rate,2005,0.441949934,0.459558556,0.422765161
+Incidence,Female,Female,All ages,Breast cancer,Rate,2005,41.56512449,42.83835246,40.03084856
+Incidence,Both,Both,All ages,Breast cancer,Rate,2005,20.87250944,21.50535031,20.1053263
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2005,0.563265563,0.586641597,0.536865184
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2005,44.32806521,45.67597363,42.59103977
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2005,23.44329812,24.16483251,22.42297848
+Incidence,Male,Male,All ages,Breast cancer,Number,2004,13929.69679,14479.98067,13340.82752
+Incidence,Female,Female,All ages,Breast cancer,Number,2004,1314193.946,1353247.984,1267999.924
+Incidence,Both,Both,All ages,Breast cancer,Number,2004,1328123.643,1367400.298,1281431.278
+Incidence,Male,Male,All ages,Breast cancer,Rate,2004,0.427097589,0.443969809,0.409042304
+Incidence,Female,Female,All ages,Breast cancer,Rate,2004,40.8359448,42.04947081,39.40055807
+Incidence,Both,Both,All ages,Breast cancer,Rate,2004,20.49666197,21.1028106,19.77606819
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2004,0.553320688,0.575749045,0.527095927
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2004,44.07120309,45.41793625,42.43529389
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2004,23.3153802,24.04578112,22.39090401
+Incidence,Male,Male,All ages,Breast cancer,Number,2003,13644.74005,14171.81489,13052.90486
+Incidence,Female,Female,All ages,Breast cancer,Number,2003,1288718.685,1323526.819,1249117.512
+Incidence,Both,Both,All ages,Breast cancer,Number,2003,1302363.425,1337565.257,1262192.179
+Incidence,Male,Male,All ages,Breast cancer,Rate,2003,0.423589971,0.439952586,0.405216925
+Incidence,Female,Female,All ages,Breast cancer,Rate,2003,40.56860106,41.66435401,39.32196422
+Incidence,Both,Both,All ages,Breast cancer,Rate,2003,20.35625162,20.90646467,19.72836544
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2003,0.55737856,0.579778488,0.529281317
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2003,44.30702309,45.51393028,42.84538537
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2003,23.4580859,24.10667117,22.60312992
+Incidence,Male,Male,All ages,Breast cancer,Number,2006,15334.89217,15954.46399,14654.07358
+Incidence,Female,Female,All ages,Breast cancer,Number,2006,1380812.692,1421934.686,1328518.641
+Incidence,Both,Both,All ages,Breast cancer,Number,2006,1396147.584,1437712.405,1343829
+Incidence,Male,Male,All ages,Breast cancer,Rate,2006,0.458664921,0.477196245,0.438301712
+Incidence,Female,Female,All ages,Breast cancer,Rate,2006,41.80958507,43.05471668,40.22617512
+Incidence,Both,Both,All ages,Breast cancer,Rate,2006,21.00734228,21.63275354,20.22012292
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2006,0.574747679,0.598206877,0.547087356
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2006,44.04821024,45.35362132,42.31530143
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2006,23.29639493,24.00189441,22.32341652
+Incidence,Male,Male,All ages,Breast cancer,Number,2007,16230.38758,16909.63866,15509.70461
+Incidence,Female,Female,All ages,Breast cancer,Number,2007,1420947.85,1461982.493,1366554.313
+Incidence,Both,Both,All ages,Breast cancer,Number,2007,1437178.238,1478322.751,1382587.027
+Incidence,Male,Male,All ages,Breast cancer,Rate,2007,0.479258713,0.499315966,0.457978038
+Incidence,Female,Female,All ages,Breast cancer,Rate,2007,42.46215402,43.68839136,40.83671312
+Incidence,Both,Both,All ages,Breast cancer,Rate,2007,21.34545465,21.9565468,20.53464761
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2007,0.589959784,0.615973941,0.561767259
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2007,44.19681853,45.4754257,42.43088051
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2007,23.37434131,24.05812647,22.36530888
+Incidence,Male,Male,All ages,Breast cancer,Number,2009,18534.86859,19428.63355,17572.31846
+Incidence,Female,Female,All ages,Breast cancer,Number,2009,1519831.975,1563785.845,1462283.416
+Incidence,Both,Both,All ages,Breast cancer,Number,2009,1538366.844,1581875.91,1480489.762
+Incidence,Male,Male,All ages,Breast cancer,Rate,2009,0.534027473,0.559778669,0.506294435
+Incidence,Female,Female,All ages,Breast cancer,Rate,2009,44.27499559,45.55543804,42.59851934
+Incidence,Both,Both,All ages,Breast cancer,Rate,2009,22.28393246,22.91418077,21.44555702
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2009,0.634099825,0.663414379,0.599048346
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2009,44.92227998,46.21589768,43.15343662
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2009,23.75964367,24.45969967,22.76627248
+Incidence,Male,Male,All ages,Breast cancer,Number,2010,19673.2552,20782.83949,18564.9477
+Incidence,Female,Female,All ages,Breast cancer,Number,2010,1563582.083,1615493.892,1505333.671
+Incidence,Both,Both,All ages,Breast cancer,Number,2010,1583255.338,1635271.327,1524294.717
+Incidence,Male,Male,All ages,Breast cancer,Rate,2010,0.560217276,0.591813892,0.528657018
+Incidence,Female,Female,All ages,Breast cancer,Rate,2010,44.98739354,46.48100045,43.31146986
+Incidence,Both,Both,All ages,Breast cancer,Rate,2010,22.65898085,23.40341498,21.81515765
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2010,0.653953116,0.690380687,0.615589838
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2010,45.06698487,46.56238234,43.33947917
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2010,23.83838114,24.62767323,22.84449665
+Incidence,Male,Male,All ages,Breast cancer,Number,2011,20580.73509,21754.03983,19458.99267
+Incidence,Female,Female,All ages,Breast cancer,Number,2011,1605519.173,1666251.519,1543251.969
+Incidence,Both,Both,All ages,Breast cancer,Number,2011,1626099.908,1686880.378,1563059.358
+Incidence,Male,Male,All ages,Breast cancer,Rate,2011,0.579224706,0.612246223,0.54765436
+Incidence,Female,Female,All ages,Breast cancer,Rate,2011,45.62754057,47.35350411,43.8579576
+Incidence,Both,Both,All ages,Breast cancer,Rate,2011,22.99381169,23.8532759,22.10238888
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2011,0.664565105,0.702056191,0.62573234
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2011,45.12446172,46.82633764,43.3542344
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2011,23.87234817,24.76228594,22.87873382
+Incidence,Male,Male,All ages,Breast cancer,Number,2008,17377.6015,18167.35468,16520.08805
+Incidence,Female,Female,All ages,Breast cancer,Number,2008,1473032.803,1516751.416,1416888.215
+Incidence,Both,Both,All ages,Breast cancer,Number,2008,1490410.405,1534318.461,1433242.26
+Incidence,Male,Male,All ages,Breast cancer,Rate,2008,0.506726069,0.529755054,0.481721213
+Incidence,Female,Female,All ages,Breast cancer,Rate,2008,43.45324592,44.74290874,41.79702714
+Incidence,Both,Both,All ages,Breast cancer,Rate,2008,21.85572492,22.49960287,21.01739794
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2008,0.61263518,0.641341828,0.579651472
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2008,44.66467474,46.01422574,42.86158187
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2008,23.62347827,24.35814398,22.59784631
+Incidence,Male,Male,All ages,Breast cancer,Number,2013,22117.48089,23673.89174,20634.55501
+Incidence,Female,Female,All ages,Breast cancer,Number,2013,1676615.4,1739214.89,1604969.819
+Incidence,Both,Both,All ages,Breast cancer,Number,2013,1698732.881,1762581.112,1626555.689
+Incidence,Male,Male,All ages,Breast cancer,Rate,2013,0.608137461,0.650932197,0.567363253
+Incidence,Female,Female,All ages,Breast cancer,Rate,2013,46.50238892,48.23864032,44.51523632
+Incidence,Both,Both,All ages,Breast cancer,Rate,2013,23.4555137,24.3371079,22.4589161
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2013,0.674975672,0.720297553,0.630941294
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2013,44.82713775,46.51163292,42.88232978
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2013,23.71434431,24.61894126,22.62236567
+Incidence,Male,Male,All ages,Breast cancer,Number,2012,21401.2494,22767.53629,20117.81235
+Incidence,Female,Female,All ages,Breast cancer,Number,2012,1634704.556,1694611.242,1561859.435
+Incidence,Both,Both,All ages,Breast cancer,Number,2012,1656105.805,1715883.381,1582417.464
+Incidence,Male,Male,All ages,Breast cancer,Rate,2012,0.595290848,0.633295082,0.559591141
+Incidence,Female,Female,All ages,Breast cancer,Rate,2012,45.89129458,47.57306354,43.84630309
+Incidence,Both,Both,All ages,Breast cancer,Rate,2012,23.13897055,23.9741778,22.10940326
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2012,0.6711547,0.713815443,0.629543229
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2012,44.81136344,46.44786838,42.78518736
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2012,23.71076151,24.58304897,22.56154921
+Incidence,Male,Male,All ages,Breast cancer,Number,2015,23041.35828,24671.46846,21221.51568
+Incidence,Female,Female,All ages,Breast cancer,Number,2015,1778563.584,1855905.461,1694567.117
+Incidence,Both,Both,All ages,Breast cancer,Number,2015,1801604.943,1880006.472,1717594.832
+Incidence,Male,Male,All ages,Breast cancer,Rate,2015,0.619504442,0.663332609,0.57057501
+Incidence,Female,Female,All ages,Breast cancer,Rate,2015,48.19145952,50.28709329,45.91551482
+Incidence,Both,Both,All ages,Breast cancer,Rate,2015,24.3133514,25.37141018,23.17960265
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2015,0.665674696,0.711730751,0.61316224
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2015,45.28364474,47.25249572,43.13816448
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2015,23.92975419,24.98020496,22.75791312
+Incidence,Male,Male,All ages,Breast cancer,Number,2014,22571.13213,24166.39106,20918.68945
+Incidence,Female,Female,All ages,Breast cancer,Number,2014,1724140.31,1793035.472,1645794.492
+Incidence,Both,Both,All ages,Breast cancer,Number,2014,1746711.442,1817002.928,1667883.546
+Incidence,Male,Male,All ages,Breast cancer,Rate,2014,0.613665316,0.657037314,0.568738604
+Incidence,Female,Female,All ages,Breast cancer,Rate,2014,47.26105715,49.14956829,45.11349053
+Incidence,Both,Both,All ages,Breast cancer,Rate,2014,23.84196618,24.801419,22.76599451
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2014,0.670017972,0.715933991,0.620417808
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2014,44.97103168,46.77986553,42.91586175
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2014,23.77603221,24.75996227,22.64073027
+Incidence,Male,Male,All ages,Breast cancer,Number,2016,23390.68011,25083.93277,21393.91774
+Incidence,Female,Female,All ages,Breast cancer,Number,2016,1821366.203,1907346.279,1730407.504
+Incidence,Both,Both,All ages,Breast cancer,Number,2016,1844756.883,1931356.313,1754499.647
+Incidence,Male,Male,All ages,Breast cancer,Rate,2016,0.62189878,0.666918068,0.56880994
+Incidence,Female,Female,All ages,Breast cancer,Rate,2016,48.78582709,51.0888286,46.34947171
+Incidence,Both,Both,All ages,Breast cancer,Rate,2016,24.61460027,25.77009689,23.41029752
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2016,0.657488444,0.704625247,0.603179848
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2016,45.27387041,47.39826578,43.01914917
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2016,23.906683,25.01916675,22.69346078
+Incidence,Male,Male,All ages,Breast cancer,Number,2018,24472.50096,26915.1656,22021.23459
+Incidence,Female,Female,All ages,Breast cancer,Number,2018,1924730.821,2065268.696,1785346.089
+Incidence,Both,Both,All ages,Breast cancer,Number,2018,1949203.322,2091208.735,1808536.325
+Incidence,Male,Male,All ages,Breast cancer,Rate,2018,0.63695682,0.700533154,0.573156604
+Incidence,Female,Female,All ages,Breast cancer,Rate,2018,50.43225605,54.11466298,46.78006406
+Incidence,Both,Both,All ages,Breast cancer,Rate,2018,25.45128604,27.30548995,23.61455822
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2018,0.651586454,0.715409974,0.586282521
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2018,45.66212339,49.00410292,42.3532397
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2018,24.07536697,25.82983954,22.30766505
+Incidence,Male,Male,All ages,Breast cancer,Number,2019,25142.5057,27785.65766,22230.64776
+Incidence,Female,Female,All ages,Breast cancer,Number,2019,1977211.622,2145214.803,1807614.765
+Incidence,Both,Both,All ages,Breast cancer,Number,2019,2002354.128,2172539.903,1832150.243
+Incidence,Male,Male,All ages,Breast cancer,Rate,2019,0.647839996,0.715945362,0.572810957
+Incidence,Female,Female,All ages,Breast cancer,Rate,2019,51.26971963,55.62609499,46.87201976
+Incidence,Both,Both,All ages,Breast cancer,Rate,2019,25.8786854,28.07818851,23.67894823
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2019,0.651718833,0.719986202,0.576984147
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2019,45.85676634,49.75809662,41.90792784
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2019,24.16638875,26.24477726,22.10880243
+Incidence,Male,Male,All ages,Breast cancer,Number,2017,23779.90742,25766.60645,21517.80425
+Incidence,Female,Female,All ages,Breast cancer,Number,2017,1866320.132,1985233.996,1748282.019
+Incidence,Both,Both,All ages,Breast cancer,Number,2017,1890100.039,2010464.692,1771258.558
+Incidence,Male,Male,All ages,Breast cancer,Rate,2017,0.62539204,0.677640593,0.565900584
+Incidence,Female,Female,All ages,Breast cancer,Rate,2017,49.43096866,52.58049666,46.30463564
+Incidence,Both,Both,All ages,Breast cancer,Rate,2017,24.94190761,26.53024896,23.37366616
+Incidence,Male,Male,Age-standardized,Breast cancer,Rate,2017,0.650242484,0.703625866,0.589602157
+Incidence,Female,Female,Age-standardized,Breast cancer,Rate,2017,45.3114024,48.21118354,42.45427365
+Incidence,Both,Both,Age-standardized,Breast cancer,Rate,2017,23.90433639,25.45251694,22.38019567
